@@ -1,0 +1,721 @@
+"Cause","Date","Location","Suicides"
+"DNAA",2013,"Ballyfermot",109
+"DSH ",2013,"Ballyfermot",43
+"SA Only",2013,"Ballyfermot",14
+"SA/DSH",2013,"Ballyfermot",5
+"SI Only",2013,"Ballyfermot",236
+"SI/DSH",2013,"Ballyfermot",71
+"SI/SA",2013,"Ballyfermot",159
+"SI/SA/DSH",2013,"Ballyfermot",79
+"DNAA",2014,"Ballyfermot",141
+"DSH ",2014,"Ballyfermot",35
+"SA Only",2014,"Ballyfermot",7
+"SA/DSH",2014,"Ballyfermot",5
+"SI Only",2014,"Ballyfermot",212
+"SI/DSH",2014,"Ballyfermot",87
+"SI/SA",2014,"Ballyfermot",144
+"SI/SA/DSH",2014,"Ballyfermot",105
+"DNAA",2015,"Ballyfermot",14
+"DSH",2015,"Ballyfermot",42
+"SA Only",2015,"Ballyfermot",4
+"SA/DSH",2015,"Ballyfermot",8
+"SI Only",2015,"Ballyfermot",185
+"SI/DSH",2015,"Ballyfermot",92
+"SI/SA",2015,"Ballyfermot",146
+"SI/SA/DSH",2015,"Ballyfermot",82
+"DNAA",2016,"Ballyfermot",13
+"DSH",2016,"Ballyfermot",27
+"SA Only",2016,"Ballyfermot",5
+"SA/DSH",2016,"Ballyfermot",3
+"SI Only",2016,"Ballyfermot",141
+"SI/DSH",2016,"Ballyfermot",65
+"SI/SA",2016,"Ballyfermot",137
+"SI/SA/DSH",2016,"Ballyfermot",90
+"DNAA",2017,"Ballyfermot",7
+"DSH",2017,"Ballyfermot",35
+"SA Only",2017,"Ballyfermot",3
+"SA/DSH",2017,"Ballyfermot",3
+"SI Only",2017,"Ballyfermot",182
+"SI/DSH",2017,"Ballyfermot",82
+"SI/SA",2017,"Ballyfermot",116
+"SI/SA/DSH",2017,"Ballyfermot",85
+"DNAA",2013,"Tallaght",56
+"DSH ",2013,"Tallaght",19
+"SA Only",2013,"Tallaght",4
+"SA/DSH",2013,"Tallaght",4
+"SI Only",2013,"Tallaght",57
+"SI/DSH",2013,"Tallaght",27
+"SI/SA",2013,"Tallaght",65
+"SI/SA/DSH",2013,"Tallaght",38
+"DNAA",2014,"Tallaght",86
+"DSH ",2014,"Tallaght",42
+"SA Only",2014,"Tallaght",5
+"SA/DSH",2014,"Tallaght",5
+"SI Only",2014,"Tallaght",145
+"SI/DSH",2014,"Tallaght",80
+"SI/SA",2014,"Tallaght",122
+"SI/SA/DSH",2014,"Tallaght",88
+"DNAA",2015,"Tallaght",147
+"DSH",2015,"Tallaght",44
+"SA Only",2015,"Tallaght",7
+"SA/DSH",2015,"Tallaght",2
+"SI Only",2015,"Tallaght",165
+"SI/DSH",2015,"Tallaght",124
+"SI/SA",2015,"Tallaght",136
+"SI/SA/DSH",2015,"Tallaght",101
+"DNAA",2016,"Tallaght",103
+"DSH",2016,"Tallaght",31
+"SA Only",2016,"Tallaght",3
+"SA/DSH",2016,"Tallaght",0
+"SI Only",2016,"Tallaght",218
+"SI/DSH",2016,"Tallaght",142
+"SI/SA",2016,"Tallaght",123
+"SI/SA/DSH",2016,"Tallaght",92
+"DNAA",2017,"Tallaght",44
+"DSH",2017,"Tallaght",25
+"SA Only",2017,"Tallaght",4
+"SA/DSH",2017,"Tallaght",2
+"SI Only",2017,"Tallaght",209
+"SI/DSH",2017,"Tallaght",150
+"SI/SA",2017,"Tallaght",120
+"SI/SA/DSH",2017,"Tallaght",127
+"DNAA",2013,"North.Dublin",0
+"DSH ",2013,"North.Dublin",0
+"SA Only",2013,"North.Dublin",0
+"SA/DSH",2013,"North.Dublin",0
+"SI Only",2013,"North.Dublin",0
+"SI/DSH",2013,"North.Dublin",0
+"SI/SA",2013,"North.Dublin",0
+"SI/SA/DSH",2013,"North.Dublin",0
+"DNAA",2014,"North.Dublin",0
+"DSH ",2014,"North.Dublin",0
+"SA Only",2014,"North.Dublin",0
+"SA/DSH",2014,"North.Dublin",0
+"SI Only",2014,"North.Dublin",0
+"SI/DSH",2014,"North.Dublin",0
+"SI/SA",2014,"North.Dublin",0
+"SI/SA/DSH",2014,"North.Dublin",0
+"DNAA",2015,"North.Dublin",137
+"DSH",2015,"North.Dublin",53
+"SA Only",2015,"North.Dublin",0
+"SA/DSH",2015,"North.Dublin",1
+"SI Only",2015,"North.Dublin",189
+"SI/DSH",2015,"North.Dublin",68
+"SI/SA",2015,"North.Dublin",78
+"SI/SA/DSH",2015,"North.Dublin",58
+"DNAA",2016,"North.Dublin",36
+"DSH",2016,"North.Dublin",82
+"SA Only",2016,"North.Dublin",3
+"SA/DSH",2016,"North.Dublin",1
+"SI Only",2016,"North.Dublin",313
+"SI/DSH",2016,"North.Dublin",150
+"SI/SA",2016,"North.Dublin",128
+"SI/SA/DSH",2016,"North.Dublin",76
+"DNAA",2017,"North.Dublin",31
+"DSH",2017,"North.Dublin",93
+"SA Only",2017,"North.Dublin",3
+"SA/DSH",2017,"North.Dublin",3
+"SI Only",2017,"North.Dublin",467
+"SI/DSH",2017,"North.Dublin",214
+"SI/SA",2017,"North.Dublin",137
+"SI/SA/DSH",2017,"North.Dublin",81
+"DNAA",2013,"Limerick",154
+"DSH ",2013,"Limerick",32
+"SA Only",2013,"Limerick",13
+"SA/DSH",2013,"Limerick",9
+"SI Only",2013,"Limerick",146
+"SI/DSH",2013,"Limerick",89
+"SI/SA",2013,"Limerick",123
+"SI/SA/DSH",2013,"Limerick",89
+"DNAA",2014,"Limerick",150
+"DSH ",2014,"Limerick",24
+"SA Only",2014,"Limerick",12
+"SA/DSH",2014,"Limerick",3
+"SI Only",2014,"Limerick",133
+"SI/DSH",2014,"Limerick",64
+"SI/SA",2014,"Limerick",74
+"SI/SA/DSH",2014,"Limerick",47
+"DNAA",2015,"Limerick",105
+"DSH",2015,"Limerick",23
+"SA Only",2015,"Limerick",14
+"SA/DSH",2015,"Limerick",7
+"SI Only",2015,"Limerick",152
+"SI/DSH",2015,"Limerick",62
+"SI/SA",2015,"Limerick",75
+"SI/SA/DSH",2015,"Limerick",58
+"DNAA",2016,"Limerick",100
+"DSH",2016,"Limerick",21
+"SA Only",2016,"Limerick",6
+"SA/DSH",2016,"Limerick",4
+"SI Only",2016,"Limerick",156
+"SI/DSH",2016,"Limerick",62
+"SI/SA",2016,"Limerick",80
+"SI/SA/DSH",2016,"Limerick",79
+"DNAA",2017,"Limerick",16
+"DSH",2017,"Limerick",23
+"SA Only",2017,"Limerick",4
+"SA/DSH",2017,"Limerick",2
+"SI Only",2017,"Limerick",188
+"SI/DSH",2017,"Limerick",93
+"SI/SA",2017,"Limerick",129
+"SI/SA/DSH",2017,"Limerick",120
+"DNAA",2013,"Roscrea",12
+"DSH ",2013,"Roscrea",3
+"SA Only",2013,"Roscrea",3
+"SA/DSH",2013,"Roscrea",0
+"SI Only",2013,"Roscrea",27
+"SI/DSH",2013,"Roscrea",11
+"SI/SA",2013,"Roscrea",25
+"SI/SA/DSH",2013,"Roscrea",20
+"DNAA",2014,"Roscrea",40
+"DSH ",2014,"Roscrea",10
+"SA Only",2014,"Roscrea",7
+"SA/DSH",2014,"Roscrea",1
+"SI Only",2014,"Roscrea",58
+"SI/DSH",2014,"Roscrea",18
+"SI/SA",2014,"Roscrea",49
+"SI/SA/DSH",2014,"Roscrea",35
+"DNAA",2015,"Roscrea",39
+"DSH",2015,"Roscrea",6
+"SA Only",2015,"Roscrea",5
+"SA/DSH",2015,"Roscrea",2
+"SI Only",2015,"Roscrea",50
+"SI/DSH",2015,"Roscrea",14
+"SI/SA",2015,"Roscrea",31
+"SI/SA/DSH",2015,"Roscrea",14
+"DNAA",2016,"Roscrea",32
+"DSH",2016,"Roscrea",5
+"SA Only",2016,"Roscrea",2
+"SA/DSH",2016,"Roscrea",0
+"SI Only",2016,"Roscrea",50
+"SI/DSH",2016,"Roscrea",20
+"SI/SA",2016,"Roscrea",28
+"SI/SA/DSH",2016,"Roscrea",17
+"DNAA",2017,"Roscrea",22
+"DSH",2017,"Roscrea",7
+"SA Only",2017,"Roscrea",3
+"SA/DSH",2017,"Roscrea",0
+"SI Only",2017,"Roscrea",64
+"SI/DSH",2017,"Roscrea",40
+"SI/SA",2017,"Roscrea",28
+"SI/SA/DSH",2017,"Roscrea",34
+"DNAA",2013,"West",0
+"DSH ",2013,"West",0
+"SA Only",2013,"West",0
+"SA/DSH",2013,"West",0
+"SI Only",2013,"West",0
+"SI/DSH",2013,"West",0
+"SI/SA",2013,"West",0
+"SI/SA/DSH",2013,"West",0
+"DNAA",2014,"West",57
+"DSH ",2014,"West",11
+"SA Only",2014,"West",3
+"SA/DSH",2014,"West",1
+"SI Only",2014,"West",93
+"SI/DSH",2014,"West",26
+"SI/SA",2014,"West",46
+"SI/SA/DSH",2014,"West",37
+"DNAA",2015,"West",62
+"DSH",2015,"West",15
+"SA Only",2015,"West",4
+"SA/DSH",2015,"West",2
+"SI Only",2015,"West",94
+"SI/DSH",2015,"West",31
+"SI/SA",2015,"West",43
+"SI/SA/DSH",2015,"West",23
+"DNAA",2016,"West",64
+"DSH",2016,"West",4
+"SA Only",2016,"West",9
+"SA/DSH",2016,"West",1
+"SI Only",2016,"West",111
+"SI/DSH",2016,"West",33
+"SI/SA",2016,"West",63
+"SI/SA/DSH",2016,"West",15
+"DNAA",2017,"West",16
+"DSH",2017,"West",12
+"SA Only",2017,"West",2
+"SA/DSH",2017,"West",2
+"SI Only",2017,"West",123
+"SI/DSH",2017,"West",36
+"SI/SA",2017,"West",71
+"SI/SA/DSH",2017,"West",34
+"DNAA",2013,"Cork",0
+"DSH ",2013,"Cork",0
+"SA Only",2013,"Cork",0
+"SA/DSH",2013,"Cork",0
+"SI Only",2013,"Cork",0
+"SI/DSH",2013,"Cork",0
+"SI/SA",2013,"Cork",0
+"SI/SA/DSH",2013,"Cork",0
+"DNAA",2014,"Cork",115
+"DSH ",2014,"Cork",30
+"SA Only",2014,"Cork",7
+"SA/DSH",2014,"Cork",3
+"SI Only",2014,"Cork",126
+"SI/DSH",2014,"Cork",75
+"SI/SA",2014,"Cork",96
+"SI/SA/DSH",2014,"Cork",83
+"DNAA",2015,"Cork",148
+"DSH",2015,"Cork",38
+"SA Only",2015,"Cork",9
+"SA/DSH",2015,"Cork",7
+"SI Only",2015,"Cork",204
+"SI/DSH",2015,"Cork",119
+"SI/SA",2015,"Cork",149
+"SI/SA/DSH",2015,"Cork",98
+"DNAA",2016,"Cork",181
+"DSH",2016,"Cork",34
+"SA Only",2016,"Cork",7
+"SA/DSH",2016,"Cork",1
+"SI Only",2016,"Cork",272
+"SI/DSH",2016,"Cork",132
+"SI/SA",2016,"Cork",213
+"SI/SA/DSH",2016,"Cork",113
+"DNAA",2017,"Cork",63
+"DSH",2017,"Cork",44
+"SA Only",2017,"Cork",12
+"SA/DSH",2017,"Cork",8
+"SI Only",2017,"Cork",492
+"SI/DSH",2017,"Cork",192
+"SI/SA",2017,"Cork",210
+"SI/SA/DSH",2017,"Cork",122
+"DNAA",2013,"Tralee",0
+"DSH ",2013,"Tralee",0
+"SA Only",2013,"Tralee",0
+"SA/DSH",2013,"Tralee",0
+"SI Only",2013,"Tralee",0
+"SI/DSH",2013,"Tralee",0
+"SI/SA",2013,"Tralee",0
+"SI/SA/DSH",2013,"Tralee",0
+"DNAA",2014,"Tralee",0
+"DSH ",2014,"Tralee",0
+"SA Only",2014,"Tralee",0
+"SA/DSH",2014,"Tralee",0
+"SI Only",2014,"Tralee",0
+"SI/DSH",2014,"Tralee",0
+"SI/SA",2014,"Tralee",0
+"SI/SA/DSH",2014,"Tralee",0
+"DNAA",2015,"Tralee",26
+"DSH",2015,"Tralee",15
+"SA Only",2015,"Tralee",4
+"SA/DSH",2015,"Tralee",2
+"SI Only",2015,"Tralee",64
+"SI/DSH",2015,"Tralee",32
+"SI/SA",2015,"Tralee",24
+"SI/SA/DSH",2015,"Tralee",18
+"DNAA",2016,"Tralee",62
+"DSH",2016,"Tralee",8
+"SA Only",2016,"Tralee",4
+"SA/DSH",2016,"Tralee",4
+"SI Only",2016,"Tralee",94
+"SI/DSH",2016,"Tralee",59
+"SI/SA",2016,"Tralee",29
+"SI/SA/DSH",2016,"Tralee",36
+"DNAA",2017,"Tralee",22
+"DSH",2017,"Tralee",16
+"SA Only",2017,"Tralee",9
+"SA/DSH",2017,"Tralee",1
+"SI Only",2017,"Tralee",135
+"SI/DSH",2017,"Tralee",68
+"SI/SA",2017,"Tralee",47
+"SI/SA/DSH",2017,"Tralee",66
+"DNAA",2013,"South.East",0
+"DSH ",2013,"South.East",0
+"SA Only",2013,"South.East",0
+"SA/DSH",2013,"South.East",0
+"SI Only",2013,"South.East",0
+"SI/DSH",2013,"South.East",0
+"SI/SA",2013,"South.East",0
+"SI/SA/DSH",2013,"South.East",0
+"DNAA",2014,"South.East",0
+"DSH ",2014,"South.East",0
+"SA Only",2014,"South.East",0
+"SA/DSH",2014,"South.East",0
+"SI Only",2014,"South.East",0
+"SI/DSH",2014,"South.East",0
+"SI/SA",2014,"South.East",0
+"SI/SA/DSH",2014,"South.East",0
+"DNAA",2015,"South.East",0
+"DSH",2015,"South.East",0
+"SA Only",2015,"South.East",0
+"SA/DSH",2015,"South.East",0
+"SI Only",2015,"South.East",0
+"SI/DSH",2015,"South.East",0
+"SI/SA",2015,"South.East",0
+"SI/SA/DSH",2015,"South.East",0
+"DNAA",2016,"South.East",19
+"DSH",2016,"South.East",9
+"SA Only",2016,"South.East",2
+"SA/DSH",2016,"South.East",3
+"SI Only",2016,"South.East",31
+"SI/DSH",2016,"South.East",24
+"SI/SA",2016,"South.East",26
+"SI/SA/DSH",2016,"South.East",14
+"DNAA",2017,"South.East",19
+"DSH",2017,"South.East",19
+"SA Only",2017,"South.East",4
+"SA/DSH",2017,"South.East",2
+"SI Only",2017,"South.East",119
+"SI/DSH",2017,"South.East",47
+"SI/SA",2017,"South.East",74
+"SI/SA/DSH",2017,"South.East",73
+"DNAA",2013,"Collins.Ave",0
+"DSH ",2013,"Collins.Ave",0
+"SA Only",2013,"Collins.Ave",0
+"SA/DSH",2013,"Collins.Ave",0
+"SI Only",2013,"Collins.Ave",0
+"SI/DSH",2013,"Collins.Ave",0
+"SI/SA",2013,"Collins.Ave",0
+"SI/SA/DSH",2013,"Collins.Ave",0
+"DNAA",2014,"Collins.Ave",0
+"DSH ",2014,"Collins.Ave",0
+"SA Only",2014,"Collins.Ave",0
+"SA/DSH",2014,"Collins.Ave",0
+"SI Only",2014,"Collins.Ave",0
+"SI/DSH",2014,"Collins.Ave",0
+"SI/SA",2014,"Collins.Ave",0
+"SI/SA/DSH",2014,"Collins.Ave",0
+"DNAA",2015,"Collins.Ave",0
+"DSH",2015,"Collins.Ave",0
+"SA Only",2015,"Collins.Ave",0
+"SA/DSH",2015,"Collins.Ave",0
+"SI Only",2015,"Collins.Ave",0
+"SI/DSH",2015,"Collins.Ave",0
+"SI/SA",2015,"Collins.Ave",0
+"SI/SA/DSH",2015,"Collins.Ave",0
+"DNAA",2016,"Collins.Ave",3
+"DSH",2016,"Collins.Ave",0
+"SA Only",2016,"Collins.Ave",0
+"SA/DSH",2016,"Collins.Ave",0
+"SI Only",2016,"Collins.Ave",0
+"SI/DSH",2016,"Collins.Ave",0
+"SI/SA",2016,"Collins.Ave",0
+"SI/SA/DSH",2016,"Collins.Ave",0
+"DNAA",2017,"Collins.Ave",3
+"DSH",2017,"Collins.Ave",0
+"SA Only",2017,"Collins.Ave",0
+"SA/DSH",2017,"Collins.Ave",1
+"SI Only",2017,"Collins.Ave",19
+"SI/DSH",2017,"Collins.Ave",6
+"SI/SA",2017,"Collins.Ave",11
+"SI/SA/DSH",2017,"Collins.Ave",5
+"DNAA",2013,"Lucan",407
+"DSH ",2013,"Lucan",120
+"SA Only",2013,"Lucan",25
+"SA/DSH",2013,"Lucan",4
+"SI Only",2013,"Lucan",495
+"SI/DSH",2013,"Lucan",223
+"SI/SA",2013,"Lucan",307
+"SI/SA/DSH",2013,"Lucan",150
+"DNAA",2014,"Lucan",457
+"DSH ",2014,"Lucan",105
+"SA Only",2014,"Lucan",9
+"SA/DSH",2014,"Lucan",9
+"SI Only",2014,"Lucan",470
+"SI/DSH",2014,"Lucan",237
+"SI/SA",2014,"Lucan",280
+"SI/SA/DSH",2014,"Lucan",162
+"DNAA",2015,"Lucan",79
+"DSH",2015,"Lucan",89
+"SA Only",2015,"Lucan",6
+"SA/DSH",2015,"Lucan",3
+"SI Only",2015,"Lucan",686
+"SI/DSH",2015,"Lucan",313
+"SI/SA",2015,"Lucan",286
+"SI/SA/DSH",2015,"Lucan",194
+"DNAA",2016,"Lucan",39
+"DSH",2016,"Lucan",50
+"SA Only",2016,"Lucan",7
+"SA/DSH",2016,"Lucan",3
+"SI Only",2016,"Lucan",692
+"SI/DSH",2016,"Lucan",291
+"SI/SA",2016,"Lucan",239
+"SI/SA/DSH",2016,"Lucan",161
+"DNAA",2017,"Lucan",0
+"DSH",2017,"Lucan",0
+"SA Only",2017,"Lucan",0
+"SA/DSH",2017,"Lucan",0
+"SI Only",2017,"Lucan",0
+"SI/DSH",2017,"Lucan",0
+"SI/SA",2017,"Lucan",0
+"SI/SA/DSH",2017,"Lucan",0
+"DNAA",2013,"Kerry",0
+"DSH ",2013,"Kerry",0
+"SA Only",2013,"Kerry",0
+"SA/DSH",2013,"Kerry",0
+"SI Only",2013,"Kerry",0
+"SI/DSH",2013,"Kerry",0
+"SI/SA",2013,"Kerry",0
+"SI/SA/DSH",2013,"Kerry",0
+"DNAA",2014,"Kerry",15
+"DSH ",2014,"Kerry",5
+"SA Only",2014,"Kerry",2
+"SA/DSH",2014,"Kerry",1
+"SI Only",2014,"Kerry",32
+"SI/DSH",2014,"Kerry",17
+"SI/SA",2014,"Kerry",20
+"SI/SA/DSH",2014,"Kerry",9
+"DNAA",2015,"Kerry",2
+"DSH",2015,"Kerry",0
+"SA Only",2015,"Kerry",1
+"SA/DSH",2015,"Kerry",1
+"SI Only",2015,"Kerry",8
+"SI/DSH",2015,"Kerry",4
+"SI/SA",2015,"Kerry",1
+"SI/SA/DSH",2015,"Kerry",1
+"DNAA",2016,"Kerry",0
+"DSH",2016,"Kerry",0
+"SA Only",2016,"Kerry",0
+"SA/DSH",2016,"Kerry",0
+"SI Only",2016,"Kerry",0
+"SI/DSH",2016,"Kerry",0
+"SI/SA",2016,"Kerry",0
+"SI/SA/DSH",2016,"Kerry",0
+"DNAA",2017,"Kerry",0
+"DSH",2017,"Kerry",0
+"SA Only",2017,"Kerry",0
+"SA/DSH",2017,"Kerry",0
+"SI Only",2017,"Kerry",0
+"SI/DSH",2017,"Kerry",0
+"SI/SA",2017,"Kerry",0
+"SI/SA/DSH",2017,"Kerry",0
+"DNAA",2013,"Finglas",62
+"DSH ",2013,"Finglas",33
+"SA Only",2013,"Finglas",8
+"SA/DSH",2013,"Finglas",1
+"SI Only",2013,"Finglas",88
+"SI/DSH",2013,"Finglas",55
+"SI/SA",2013,"Finglas",51
+"SI/SA/DSH",2013,"Finglas",27
+"DNAA",2014,"Finglas",166
+"DSH ",2014,"Finglas",57
+"SA Only",2014,"Finglas",2
+"SA/DSH",2014,"Finglas",1
+"SI Only",2014,"Finglas",145
+"SI/DSH",2014,"Finglas",64
+"SI/SA",2014,"Finglas",70
+"SI/SA/DSH",2014,"Finglas",23
+"DNAA",2015,"Finglas",0
+"DSH",2015,"Finglas",0
+"SA Only",2015,"Finglas",0
+"SA/DSH",2015,"Finglas",0
+"SI Only",2015,"Finglas",0
+"SI/DSH",2015,"Finglas",0
+"SI/SA",2015,"Finglas",0
+"SI/SA/DSH",2015,"Finglas",0
+"DNAA",2016,"Finglas",0
+"DSH",2016,"Finglas",0
+"SA Only",2016,"Finglas",0
+"SA/DSH",2016,"Finglas",0
+"SI Only",2016,"Finglas",0
+"SI/DSH",2016,"Finglas",0
+"SI/SA",2016,"Finglas",0
+"SI/SA/DSH",2016,"Finglas",0
+"DNAA",2017,"Finglas",0
+"DSH",2017,"Finglas",0
+"SA Only",2017,"Finglas",0
+"SA/DSH",2017,"Finglas",0
+"SI Only",2017,"Finglas",0
+"SI/DSH",2017,"Finglas",0
+"SI/SA",2017,"Finglas",0
+"SI/SA/DSH",2017,"Finglas",0
+"DNAA",2013,"Pieta.House",0
+"DSH ",2013,"Pieta.House",0
+"SA Only",2013,"Pieta.House",0
+"SA/DSH",2013,"Pieta.House",0
+"SI Only",2013,"Pieta.House",0
+"SI/DSH",2013,"Pieta.House",0
+"SI/SA",2013,"Pieta.House",0
+"SI/SA/DSH",2013,"Pieta.House",0
+"DNAA",2014,"Pieta.House",0
+"DSH ",2014,"Pieta.House",0
+"SA Only",2014,"Pieta.House",0
+"SA/DSH",2014,"Pieta.House",0
+"SI Only",2014,"Pieta.House",0
+"SI/DSH",2014,"Pieta.House",0
+"SI/SA",2014,"Pieta.House",0
+"SI/SA/DSH",2014,"Pieta.House",0
+"DNAA",2015,"Pieta.House",0
+"DSH",2015,"Pieta.House",0
+"SA Only",2015,"Pieta.House",0
+"SA/DSH",2015,"Pieta.House",0
+"SI Only",2015,"Pieta.House",0
+"SI/DSH",2015,"Pieta.House",0
+"SI/SA",2015,"Pieta.House",0
+"SI/SA/DSH",2015,"Pieta.House",0
+"DNAA",2016,"Pieta.House",0
+"DSH",2016,"Pieta.House",0
+"SA Only",2016,"Pieta.House",0
+"SA/DSH",2016,"Pieta.House",0
+"SI Only",2016,"Pieta.House",0
+"SI/DSH",2016,"Pieta.House",0
+"SI/SA",2016,"Pieta.House",0
+"SI/SA/DSH",2016,"Pieta.House",0
+"DNAA",2017,"Pieta.House",42
+"DSH",2017,"Pieta.House",62
+"SA Only",2017,"Pieta.House",5
+"SA/DSH",2017,"Pieta.House",3
+"SI Only",2017,"Pieta.House",709
+"SI/DSH",2017,"Pieta.House",290
+"SI/SA",2017,"Pieta.House",257
+"SI/SA/DSH",2017,"Pieta.House",146
+"DNAA",2013,"Wexford",0
+"DSH ",2013,"Wexford",0
+"SA Only",2013,"Wexford",0
+"SA/DSH",2013,"Wexford",0
+"SI Only",2013,"Wexford",0
+"SI/DSH",2013,"Wexford",0
+"SI/SA",2013,"Wexford",0
+"SI/SA/DSH",2013,"Wexford",0
+"DNAA",2014,"Wexford",0
+"DSH ",2014,"Wexford",0
+"SA Only",2014,"Wexford",0
+"SA/DSH",2014,"Wexford",0
+"SI Only",2014,"Wexford",0
+"SI/DSH",2014,"Wexford",0
+"SI/SA",2014,"Wexford",0
+"SI/SA/DSH",2014,"Wexford",0
+"DNAA",2015,"Wexford",0
+"DSH",2015,"Wexford",0
+"SA Only",2015,"Wexford",0
+"SA/DSH",2015,"Wexford",0
+"SI Only",2015,"Wexford",0
+"SI/DSH",2015,"Wexford",0
+"SI/SA",2015,"Wexford",0
+"SI/SA/DSH",2015,"Wexford",0
+"DNAA",2016,"Wexford",0
+"DSH",2016,"Wexford",0
+"SA Only",2016,"Wexford",0
+"SA/DSH",2016,"Wexford",0
+"SI Only",2016,"Wexford",0
+"SI/DSH",2016,"Wexford",0
+"SI/SA",2016,"Wexford",0
+"SI/SA/DSH",2016,"Wexford",0
+"DNAA",2017,"Wexford",14
+"DSH",2017,"Wexford",6
+"SA Only",2017,"Wexford",0
+"SA/DSH",2017,"Wexford",2
+"SI Only",2017,"Wexford",32
+"SI/DSH",2017,"Wexford",17
+"SI/SA",2017,"Wexford",19
+"SI/SA/DSH",2017,"Wexford",25
+"DNAA",2013,"Galway.City",0
+"DSH ",2013,"Galway.City",0
+"SA Only",2013,"Galway.City",0
+"SA/DSH",2013,"Galway.City",0
+"SI Only",2013,"Galway.City",0
+"SI/DSH",2013,"Galway.City",0
+"SI/SA",2013,"Galway.City",0
+"SI/SA/DSH",2013,"Galway.City",0
+"DNAA",2014,"Galway.City",0
+"DSH ",2014,"Galway.City",0
+"SA Only",2014,"Galway.City",0
+"SA/DSH",2014,"Galway.City",0
+"SI Only",2014,"Galway.City",0
+"SI/DSH",2014,"Galway.City",0
+"SI/SA",2014,"Galway.City",0
+"SI/SA/DSH",2014,"Galway.City",0
+"DNAA",2015,"Galway.City",0
+"DSH",2015,"Galway.City",0
+"SA Only",2015,"Galway.City",0
+"SA/DSH",2015,"Galway.City",0
+"SI Only",2015,"Galway.City",0
+"SI/DSH",2015,"Galway.City",0
+"SI/SA",2015,"Galway.City",0
+"SI/SA/DSH",2015,"Galway.City",0
+"DNAA",2016,"Galway.City",0
+"DSH",2016,"Galway.City",0
+"SA Only",2016,"Galway.City",0
+"SA/DSH",2016,"Galway.City",0
+"SI Only",2016,"Galway.City",0
+"SI/DSH",2016,"Galway.City",0
+"SI/SA",2016,"Galway.City",0
+"SI/SA/DSH",2016,"Galway.City",0
+"DNAA",2017,"Galway.City",0
+"DSH",2017,"Galway.City",0
+"SA Only",2017,"Galway.City",1
+"SA/DSH",2017,"Galway.City",0
+"SI Only",2017,"Galway.City",11
+"SI/DSH",2017,"Galway.City",5
+"SI/SA",2017,"Galway.City",4
+"SI/SA/DSH",2017,"Galway.City",5
+"DNAA",2013,"North.West",0
+"DSH ",2013,"North.West",0
+"SA Only",2013,"North.West",0
+"SA/DSH",2013,"North.West",0
+"SI Only",2013,"North.West",0
+"SI/DSH",2013,"North.West",0
+"SI/SA",2013,"North.West",0
+"SI/SA/DSH",2013,"North.West",0
+"DNAA",2014,"North.West",0
+"DSH ",2014,"North.West",0
+"SA Only",2014,"North.West",0
+"SA/DSH",2014,"North.West",0
+"SI Only",2014,"North.West",0
+"SI/DSH",2014,"North.West",0
+"SI/SA",2014,"North.West",0
+"SI/SA/DSH",2014,"North.West",0
+"DNAA",2015,"North.West",0
+"DSH",2015,"North.West",0
+"SA Only",2015,"North.West",0
+"SA/DSH",2015,"North.West",0
+"SI Only",2015,"North.West",0
+"SI/DSH",2015,"North.West",0
+"SI/SA",2015,"North.West",0
+"SI/SA/DSH",2015,"North.West",0
+"DNAA",2016,"North.West",0
+"DSH",2016,"North.West",0
+"SA Only",2016,"North.West",0
+"SA/DSH",2016,"North.West",0
+"SI Only",2016,"North.West",0
+"SI/DSH",2016,"North.West",0
+"SI/SA",2016,"North.West",0
+"SI/SA/DSH",2016,"North.West",0
+"DNAA",2017,"North.West",23
+"DSH",2017,"North.West",7
+"SA Only",2017,"North.West",3
+"SA/DSH",2017,"North.West",0
+"SI Only",2017,"North.West",52
+"SI/DSH",2017,"North.West",29
+"SI/SA",2017,"North.West",19
+"SI/SA/DSH",2017,"North.West",8
+"DNAA",2013,"Midlands",0
+"DSH ",2013,"Midlands",0
+"SA Only",2013,"Midlands",0
+"SA/DSH",2013,"Midlands",0
+"SI Only",2013,"Midlands",0
+"SI/DSH",2013,"Midlands",0
+"SI/SA",2013,"Midlands",0
+"SI/SA/DSH",2013,"Midlands",0
+"DNAA",2014,"Midlands",0
+"DSH ",2014,"Midlands",0
+"SA Only",2014,"Midlands",0
+"SA/DSH",2014,"Midlands",0
+"SI Only",2014,"Midlands",0
+"SI/DSH",2014,"Midlands",0
+"SI/SA",2014,"Midlands",0
+"SI/SA/DSH",2014,"Midlands",0
+"DNAA",2015,"Midlands",0
+"DSH",2015,"Midlands",0
+"SA Only",2015,"Midlands",0
+"SA/DSH",2015,"Midlands",0
+"SI Only",2015,"Midlands",0
+"SI/DSH",2015,"Midlands",0
+"SI/SA",2015,"Midlands",0
+"SI/SA/DSH",2015,"Midlands",0
+"DNAA",2016,"Midlands",0
+"DSH",2016,"Midlands",0
+"SA Only",2016,"Midlands",0
+"SA/DSH",2016,"Midlands",0
+"SI Only",2016,"Midlands",0
+"SI/DSH",2016,"Midlands",0
+"SI/SA",2016,"Midlands",0
+"SI/SA/DSH",2016,"Midlands",0
+"DNAA",2017,"Midlands",7
+"DSH",2017,"Midlands",6
+"SA Only",2017,"Midlands",1
+"SA/DSH",2017,"Midlands",0
+"SI Only",2017,"Midlands",6
+"SI/DSH",2017,"Midlands",9
+"SI/SA",2017,"Midlands",9
+"SI/SA/DSH",2017,"Midlands",15

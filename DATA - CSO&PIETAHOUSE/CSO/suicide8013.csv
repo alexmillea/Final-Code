@@ -1,0 +1,953 @@
+"Location","Date","Both","Female","Male"
+"All Regions",1980,216,73,143
+"All Regions",1981,223,65,158
+"All Regions",1982,241,63,178
+"All Regions",1983,282,80,202
+"All Regions",1984,232,68,164
+"All Regions",1985,276,60,216
+"All Regions",1986,283,66,217
+"All Regions",1987,245,60,185
+"All Regions",1988,266,71,195
+"All Regions",1989,278,65,213
+"All Regions",1990,334,83,251
+"All Regions",1991,346,63,283
+"All Regions",1992,363,59,304
+"All Regions",1993,327,67,260
+"All Regions",1994,395,90,305
+"All Regions",1995,404,83,321
+"All Regions",1996,409,64,345
+"All Regions",1997,478,92,386
+"All Regions",1998,514,81,433
+"All Regions",1999,455,97,358
+"All Regions",2000,486,91,395
+"All Regions",2001,519,90,429
+"All Regions",2002,478,91,387
+"All Regions",2003,497,111,386
+"All Regions",2004,493,87,406
+"All Regions",2005,481,99,382
+"All Regions",2006,460,81,379
+"All Regions",2007,458,96,362
+"All Regions",2008,506,120,386
+"All Regions",2009,552,109,443
+"All Regions",2010,495,90,405
+"All Regions",2011,554,96,458
+"All Regions",2012,541,96,445
+"All Regions",2013,475,79,396
+"Carlow",1980,4,3,1
+"Carlow",1981,1,0,1
+"Carlow",1982,4,2,2
+"Carlow",1983,6,1,5
+"Carlow",1984,1,0,1
+"Carlow",1985,2,0,2
+"Carlow",1986,2,1,1
+"Carlow",1987,3,1,2
+"Carlow",1988,5,1,4
+"Carlow",1989,5,1,4
+"Carlow",1990,5,3,2
+"Carlow",1991,5,0,5
+"Carlow",1992,14,0,14
+"Carlow",1993,0,0,0
+"Carlow",1994,7,4,3
+"Carlow",1995,8,1,7
+"Carlow",1996,12,0,12
+"Carlow",1997,10,0,10
+"Carlow",1998,5,0,5
+"Carlow",1999,2,1,1
+"Carlow",2000,2,1,1
+"Carlow",2001,8,0,8
+"Carlow",2002,3,0,3
+"Carlow",2003,6,2,4
+"Carlow",2004,6,0,6
+"Carlow",2005,9,3,6
+"Carlow",2006,10,1,9
+"Carlow",2007,11,1,10
+"Carlow",2008,6,3,3
+"Carlow",2009,6,1,5
+"Carlow",2010,7,0,7
+"Carlow",2011,7,0,7
+"Carlow",2012,5,0,5
+"Carlow",2013,11,2,9
+"Cavan",1980,4,0,4
+"Cavan",1981,6,1,5
+"Cavan",1982,1,0,1
+"Cavan",1983,6,1,5
+"Cavan",1984,4,0,4
+"Cavan",1985,4,0,4
+"Cavan",1986,4,2,2
+"Cavan",1987,2,1,1
+"Cavan",1988,5,1,4
+"Cavan",1989,7,2,5
+"Cavan",1990,4,0,4
+"Cavan",1991,7,0,7
+"Cavan",1992,9,2,7
+"Cavan",1993,5,1,4
+"Cavan",1994,7,1,6
+"Cavan",1995,9,1,8
+"Cavan",1996,9,0,9
+"Cavan",1997,11,0,11
+"Cavan",1998,4,0,4
+"Cavan",1999,4,0,4
+"Cavan",2000,7,1,6
+"Cavan",2001,9,2,7
+"Cavan",2002,10,2,8
+"Cavan",2003,5,1,4
+"Cavan",2004,12,3,9
+"Cavan",2005,13,2,11
+"Cavan",2006,10,1,9
+"Cavan",2007,12,1,11
+"Cavan",2008,11,1,10
+"Cavan",2009,7,1,6
+"Cavan",2010,7,1,6
+"Cavan",2011,8,1,7
+"Cavan",2012,7,0,7
+"Cavan",2013,15,4,11
+"Clare",1980,2,0,2
+"Clare",1981,6,2,4
+"Clare",1982,6,2,4
+"Clare",1983,5,2,3
+"Clare",1984,7,2,5
+"Clare",1985,11,0,11
+"Clare",1986,11,2,9
+"Clare",1987,8,4,4
+"Clare",1988,12,3,9
+"Clare",1989,8,2,6
+"Clare",1990,14,3,11
+"Clare",1991,12,4,8
+"Clare",1992,8,1,7
+"Clare",1993,20,4,16
+"Clare",1994,7,1,6
+"Clare",1995,14,1,13
+"Clare",1996,18,1,17
+"Clare",1997,10,3,7
+"Clare",1998,15,1,14
+"Clare",1999,12,2,10
+"Clare",2000,8,3,5
+"Clare",2001,13,4,9
+"Clare",2002,16,1,15
+"Clare",2003,15,6,9
+"Clare",2004,17,5,12
+"Clare",2005,12,2,10
+"Clare",2006,12,3,9
+"Clare",2007,17,3,14
+"Clare",2008,15,4,11
+"Clare",2009,18,5,13
+"Clare",2010,8,1,7
+"Clare",2011,13,1,12
+"Clare",2012,15,4,11
+"Clare",2013,14,2,12
+"Cork",1980,40,17,23
+"Cork",1981,32,12,20
+"Cork",1982,34,6,28
+"Cork",1983,42,12,30
+"Cork",1984,40,5,35
+"Cork",1985,48,12,36
+"Cork",1986,49,17,32
+"Cork",1987,33,9,24
+"Cork",1988,37,7,30
+"Cork",1989,43,9,34
+"Cork",1990,46,13,33
+"Cork",1991,40,7,33
+"Cork",1992,39,10,29
+"Cork",1993,40,6,34
+"Cork",1994,57,9,48
+"Cork",1995,50,8,42
+"Cork",1996,66,14,52
+"Cork",1997,82,18,64
+"Cork",1998,74,11,63
+"Cork",1999,53,16,37
+"Cork",2000,67,10,57
+"Cork",2001,100,18,82
+"Cork",2002,62,16,46
+"Cork",2003,80,24,56
+"Cork",2004,60,11,49
+"Cork",2005,67,12,55
+"Cork",2006,73,10,63
+"Cork",2007,63,11,52
+"Cork",2008,82,14,68
+"Cork",2009,80,14,66
+"Cork",2010,66,16,50
+"Cork",2011,78,13,65
+"Cork",2012,64,11,53
+"Cork",2013,56,9,47
+"Donegal",1980,6,1,5
+"Donegal",1981,4,1,3
+"Donegal",1982,5,1,4
+"Donegal",1983,6,2,4
+"Donegal",1984,7,2,5
+"Donegal",1985,5,1,4
+"Donegal",1986,11,0,11
+"Donegal",1987,5,2,3
+"Donegal",1988,6,2,4
+"Donegal",1989,7,1,6
+"Donegal",1990,14,3,11
+"Donegal",1991,9,0,9
+"Donegal",1992,12,0,12
+"Donegal",1993,20,5,15
+"Donegal",1994,7,2,5
+"Donegal",1995,14,1,13
+"Donegal",1996,12,1,11
+"Donegal",1997,17,4,13
+"Donegal",1998,14,0,14
+"Donegal",1999,14,2,12
+"Donegal",2000,13,3,10
+"Donegal",2001,15,3,12
+"Donegal",2002,20,3,17
+"Donegal",2003,19,6,13
+"Donegal",2004,14,3,11
+"Donegal",2005,17,4,13
+"Donegal",2006,14,2,12
+"Donegal",2007,12,3,9
+"Donegal",2008,20,6,14
+"Donegal",2009,19,2,17
+"Donegal",2010,6,1,5
+"Donegal",2011,13,3,10
+"Donegal",2012,12,0,12
+"Donegal",2013,15,2,13
+"Dublin",1980,73,26,47
+"Dublin",1981,63,25,38
+"Dublin",1982,64,29,35
+"Dublin",1983,72,27,45
+"Dublin",1984,63,31,32
+"Dublin",1985,55,14,41
+"Dublin",1986,53,15,38
+"Dublin",1987,59,19,40
+"Dublin",1988,61,18,43
+"Dublin",1989,56,15,41
+"Dublin",1990,75,26,49
+"Dublin",1991,82,23,59
+"Dublin",1992,71,15,56
+"Dublin",1993,66,19,47
+"Dublin",1994,104,31,73
+"Dublin",1995,89,30,59
+"Dublin",1996,96,20,76
+"Dublin",1997,105,20,85
+"Dublin",1998,118,25,93
+"Dublin",1999,120,34,86
+"Dublin",2000,115,22,93
+"Dublin",2001,120,30,90
+"Dublin",2002,103,26,77
+"Dublin",2003,107,30,77
+"Dublin",2004,118,20,98
+"Dublin",2005,104,25,79
+"Dublin",2006,101,21,80
+"Dublin",2007,96,26,70
+"Dublin",2008,108,29,79
+"Dublin",2009,119,28,91
+"Dublin",2010,106,23,83
+"Dublin",2011,114,21,93
+"Dublin",2012,109,28,81
+"Dublin",2013,94,21,73
+"Galway",1980,12,3,9
+"Galway",1981,15,3,12
+"Galway",1982,22,3,19
+"Galway",1983,16,2,14
+"Galway",1984,10,2,8
+"Galway",1985,15,3,12
+"Galway",1986,14,4,10
+"Galway",1987,18,5,13
+"Galway",1988,11,6,5
+"Galway",1989,11,1,10
+"Galway",1990,27,6,21
+"Galway",1991,18,2,16
+"Galway",1992,21,6,15
+"Galway",1993,13,2,11
+"Galway",1994,20,4,16
+"Galway",1995,30,6,24
+"Galway",1996,23,3,20
+"Galway",1997,33,8,25
+"Galway",1998,28,3,25
+"Galway",1999,23,8,15
+"Galway",2000,20,5,15
+"Galway",2001,23,4,19
+"Galway",2002,26,3,23
+"Galway",2003,26,4,22
+"Galway",2004,19,4,15
+"Galway",2005,29,7,22
+"Galway",2006,22,3,19
+"Galway",2007,18,7,11
+"Galway",2008,29,6,23
+"Galway",2009,28,3,25
+"Galway",2010,27,5,22
+"Galway",2011,37,10,27
+"Galway",2012,28,6,22
+"Galway",2013,28,4,24
+"Kerry",1980,7,2,5
+"Kerry",1981,10,2,8
+"Kerry",1982,10,3,7
+"Kerry",1983,10,3,7
+"Kerry",1984,8,3,5
+"Kerry",1985,12,2,10
+"Kerry",1986,18,2,16
+"Kerry",1987,11,2,9
+"Kerry",1988,19,6,13
+"Kerry",1989,15,9,6
+"Kerry",1990,14,4,10
+"Kerry",1991,12,1,11
+"Kerry",1992,19,3,16
+"Kerry",1993,13,5,8
+"Kerry",1994,22,6,16
+"Kerry",1995,16,3,13
+"Kerry",1996,15,1,14
+"Kerry",1997,17,1,16
+"Kerry",1998,26,6,20
+"Kerry",1999,19,1,18
+"Kerry",2000,20,5,15
+"Kerry",2001,20,3,17
+"Kerry",2002,13,2,11
+"Kerry",2003,19,3,16
+"Kerry",2004,17,4,13
+"Kerry",2005,16,5,11
+"Kerry",2006,14,0,14
+"Kerry",2007,12,0,12
+"Kerry",2008,15,2,13
+"Kerry",2009,29,5,24
+"Kerry",2010,24,5,19
+"Kerry",2011,26,8,18
+"Kerry",2012,32,0,32
+"Kerry",2013,28,1,27
+"Kildare",1980,9,3,6
+"Kildare",1981,6,0,6
+"Kildare",1982,3,1,2
+"Kildare",1983,8,1,7
+"Kildare",1984,3,2,1
+"Kildare",1985,8,2,6
+"Kildare",1986,7,1,6
+"Kildare",1987,8,2,6
+"Kildare",1988,9,1,8
+"Kildare",1989,12,2,10
+"Kildare",1990,11,0,11
+"Kildare",1991,13,2,11
+"Kildare",1992,15,1,14
+"Kildare",1993,18,2,16
+"Kildare",1994,12,1,11
+"Kildare",1995,15,1,14
+"Kildare",1996,15,3,12
+"Kildare",1997,19,3,16
+"Kildare",1998,12,0,12
+"Kildare",1999,8,3,5
+"Kildare",2000,20,7,13
+"Kildare",2001,12,2,10
+"Kildare",2002,21,2,19
+"Kildare",2003,13,1,12
+"Kildare",2004,16,1,15
+"Kildare",2005,21,4,17
+"Kildare",2006,19,4,15
+"Kildare",2007,23,3,20
+"Kildare",2008,24,7,17
+"Kildare",2009,20,4,16
+"Kildare",2010,18,4,14
+"Kildare",2011,27,3,24
+"Kildare",2012,24,8,16
+"Kildare",2013,23,6,17
+"Kilkenny",1980,2,1,1
+"Kilkenny",1981,3,0,3
+"Kilkenny",1982,5,1,4
+"Kilkenny",1983,9,1,8
+"Kilkenny",1984,7,2,5
+"Kilkenny",1985,7,1,6
+"Kilkenny",1986,7,1,6
+"Kilkenny",1987,5,1,4
+"Kilkenny",1988,4,2,2
+"Kilkenny",1989,8,3,5
+"Kilkenny",1990,4,2,2
+"Kilkenny",1991,12,0,12
+"Kilkenny",1992,11,2,9
+"Kilkenny",1993,7,1,6
+"Kilkenny",1994,11,4,7
+"Kilkenny",1995,10,2,8
+"Kilkenny",1996,7,0,7
+"Kilkenny",1997,6,0,6
+"Kilkenny",1998,13,3,10
+"Kilkenny",1999,14,1,13
+"Kilkenny",2000,17,3,14
+"Kilkenny",2001,15,0,15
+"Kilkenny",2002,11,0,11
+"Kilkenny",2003,13,1,12
+"Kilkenny",2004,7,0,7
+"Kilkenny",2005,8,1,7
+"Kilkenny",2006,11,1,10
+"Kilkenny",2007,11,0,11
+"Kilkenny",2008,9,4,5
+"Kilkenny",2009,10,1,9
+"Kilkenny",2010,8,2,6
+"Kilkenny",2011,14,3,11
+"Kilkenny",2012,12,1,11
+"Kilkenny",2013,13,0,13
+"Laois",1980,1,0,1
+"Laois",1981,1,0,1
+"Laois",1982,1,0,1
+"Laois",1983,4,0,4
+"Laois",1984,2,0,2
+"Laois",1985,4,1,3
+"Laois",1986,5,0,5
+"Laois",1987,0,0,0
+"Laois",1988,4,1,3
+"Laois",1989,2,0,2
+"Laois",1990,2,0,2
+"Laois",1991,5,1,4
+"Laois",1992,5,1,4
+"Laois",1993,3,0,3
+"Laois",1994,1,0,1
+"Laois",1995,10,3,7
+"Laois",1996,3,0,3
+"Laois",1997,5,1,4
+"Laois",1998,9,1,8
+"Laois",1999,5,1,4
+"Laois",2000,6,1,5
+"Laois",2001,7,2,5
+"Laois",2002,6,0,6
+"Laois",2003,3,1,2
+"Laois",2004,6,0,6
+"Laois",2005,2,0,2
+"Laois",2006,9,3,6
+"Laois",2007,10,3,7
+"Laois",2008,5,2,3
+"Laois",2009,8,2,6
+"Laois",2010,18,2,16
+"Laois",2011,13,3,10
+"Laois",2012,10,1,9
+"Laois",2013,10,0,10
+"Leitrim",1980,4,0,4
+"Leitrim",1981,1,1,0
+"Leitrim",1982,5,1,4
+"Leitrim",1983,8,3,5
+"Leitrim",1984,5,2,3
+"Leitrim",1985,4,0,4
+"Leitrim",1986,2,1,1
+"Leitrim",1987,5,2,3
+"Leitrim",1988,1,0,1
+"Leitrim",1989,2,0,2
+"Leitrim",1990,2,1,1
+"Leitrim",1991,9,1,8
+"Leitrim",1992,5,0,5
+"Leitrim",1993,2,1,1
+"Leitrim",1994,4,2,2
+"Leitrim",1995,2,0,2
+"Leitrim",1996,2,0,2
+"Leitrim",1997,6,1,5
+"Leitrim",1998,5,0,5
+"Leitrim",1999,4,0,4
+"Leitrim",2000,4,0,4
+"Leitrim",2001,6,2,4
+"Leitrim",2002,7,2,5
+"Leitrim",2003,0,0,0
+"Leitrim",2004,10,2,8
+"Leitrim",2005,7,1,6
+"Leitrim",2006,2,0,2
+"Leitrim",2007,2,1,1
+"Leitrim",2008,4,1,3
+"Leitrim",2009,4,1,3
+"Leitrim",2010,6,1,5
+"Leitrim",2011,6,2,4
+"Leitrim",2012,3,1,2
+"Leitrim",2013,0,0,0
+"Limerick",1980,10,4,6
+"Limerick",1981,10,1,9
+"Limerick",1982,17,4,13
+"Limerick",1983,17,2,15
+"Limerick",1984,14,1,13
+"Limerick",1985,18,6,12
+"Limerick",1986,19,4,15
+"Limerick",1987,14,1,13
+"Limerick",1988,18,4,14
+"Limerick",1989,25,3,22
+"Limerick",1990,18,3,15
+"Limerick",1991,16,3,13
+"Limerick",1992,16,4,12
+"Limerick",1993,19,2,17
+"Limerick",1994,20,6,14
+"Limerick",1995,11,4,7
+"Limerick",1996,18,3,15
+"Limerick",1997,18,6,12
+"Limerick",1998,28,4,24
+"Limerick",1999,26,4,22
+"Limerick",2000,32,4,28
+"Limerick",2001,16,1,15
+"Limerick",2002,30,8,22
+"Limerick",2003,28,4,24
+"Limerick",2004,28,3,25
+"Limerick",2005,24,7,17
+"Limerick",2006,16,6,10
+"Limerick",2007,23,6,17
+"Limerick",2008,16,5,11
+"Limerick",2009,24,4,20
+"Limerick",2010,27,2,25
+"Limerick",2011,31,6,25
+"Limerick",2012,34,6,28
+"Limerick",2013,20,7,13
+"Longford",1980,1,0,1
+"Longford",1981,2,1,1
+"Longford",1982,1,0,1
+"Longford",1983,6,1,5
+"Longford",1984,5,1,4
+"Longford",1985,4,0,4
+"Longford",1986,5,1,4
+"Longford",1987,1,1,0
+"Longford",1988,1,0,1
+"Longford",1989,4,1,3
+"Longford",1990,2,0,2
+"Longford",1991,5,0,5
+"Longford",1992,3,0,3
+"Longford",1993,6,2,4
+"Longford",1994,1,0,1
+"Longford",1995,2,0,2
+"Longford",1996,5,0,5
+"Longford",1997,2,0,2
+"Longford",1998,3,0,3
+"Longford",1999,6,1,5
+"Longford",2000,3,0,3
+"Longford",2001,6,0,6
+"Longford",2002,4,2,2
+"Longford",2003,2,0,2
+"Longford",2004,7,3,4
+"Longford",2005,3,1,2
+"Longford",2006,5,0,5
+"Longford",2007,5,0,5
+"Longford",2008,1,0,1
+"Longford",2009,4,2,2
+"Longford",2010,4,1,3
+"Longford",2011,2,0,2
+"Longford",2012,3,0,3
+"Longford",2013,5,1,4
+"Louth",1980,2,1,1
+"Louth",1981,2,0,2
+"Louth",1982,6,0,6
+"Louth",1983,7,0,7
+"Louth",1984,3,0,3
+"Louth",1985,3,1,2
+"Louth",1986,8,2,6
+"Louth",1987,7,2,5
+"Louth",1988,6,1,5
+"Louth",1989,4,1,3
+"Louth",1990,5,1,4
+"Louth",1991,12,3,9
+"Louth",1992,11,1,10
+"Louth",1993,5,0,5
+"Louth",1994,8,3,5
+"Louth",1995,9,1,8
+"Louth",1996,9,1,8
+"Louth",1997,12,4,8
+"Louth",1998,16,2,14
+"Louth",1999,11,2,9
+"Louth",2000,13,2,11
+"Louth",2001,7,0,7
+"Louth",2002,14,4,10
+"Louth",2003,14,2,12
+"Louth",2004,13,5,8
+"Louth",2005,4,1,3
+"Louth",2006,13,0,13
+"Louth",2007,12,2,10
+"Louth",2008,13,2,11
+"Louth",2009,16,3,13
+"Louth",2010,17,4,13
+"Louth",2011,14,1,13
+"Louth",2012,21,2,19
+"Louth",2013,17,2,15
+"Mayo",1980,9,2,7
+"Mayo",1981,17,3,14
+"Mayo",1982,7,0,7
+"Mayo",1983,7,2,5
+"Mayo",1984,8,0,8
+"Mayo",1985,13,2,11
+"Mayo",1986,6,0,6
+"Mayo",1987,9,1,8
+"Mayo",1988,8,1,7
+"Mayo",1989,9,2,7
+"Mayo",1990,10,1,9
+"Mayo",1991,7,1,6
+"Mayo",1992,20,2,18
+"Mayo",1993,9,3,6
+"Mayo",1994,14,3,11
+"Mayo",1995,12,3,9
+"Mayo",1996,12,1,11
+"Mayo",1997,16,3,13
+"Mayo",1998,16,3,13
+"Mayo",1999,13,2,11
+"Mayo",2000,17,4,13
+"Mayo",2001,17,2,15
+"Mayo",2002,18,2,16
+"Mayo",2003,12,2,10
+"Mayo",2004,12,1,11
+"Mayo",2005,13,2,11
+"Mayo",2006,16,3,13
+"Mayo",2007,23,6,17
+"Mayo",2008,10,4,6
+"Mayo",2009,17,3,14
+"Mayo",2010,18,2,16
+"Mayo",2011,17,1,16
+"Mayo",2012,25,3,22
+"Mayo",2013,16,2,14
+"Meath",1980,6,3,3
+"Meath",1981,6,2,4
+"Meath",1982,5,1,4
+"Meath",1983,5,3,2
+"Meath",1984,6,2,4
+"Meath",1985,7,2,5
+"Meath",1986,8,2,6
+"Meath",1987,4,1,3
+"Meath",1988,4,0,4
+"Meath",1989,4,1,3
+"Meath",1990,10,2,8
+"Meath",1991,9,3,6
+"Meath",1992,11,0,11
+"Meath",1993,6,0,6
+"Meath",1994,8,2,6
+"Meath",1995,14,3,11
+"Meath",1996,11,3,8
+"Meath",1997,13,2,11
+"Meath",1998,11,2,9
+"Meath",1999,16,4,12
+"Meath",2000,11,1,10
+"Meath",2001,19,2,17
+"Meath",2002,19,6,13
+"Meath",2003,16,1,15
+"Meath",2004,22,5,17
+"Meath",2005,14,2,12
+"Meath",2006,12,5,7
+"Meath",2007,9,1,8
+"Meath",2008,26,10,16
+"Meath",2009,21,4,17
+"Meath",2010,10,1,9
+"Meath",2011,14,1,13
+"Meath",2012,18,4,14
+"Meath",2013,11,4,7
+"Monaghan",1980,4,2,2
+"Monaghan",1981,2,0,2
+"Monaghan",1982,3,0,3
+"Monaghan",1983,4,0,4
+"Monaghan",1984,6,4,2
+"Monaghan",1985,4,2,2
+"Monaghan",1986,3,1,2
+"Monaghan",1987,7,0,7
+"Monaghan",1988,7,1,6
+"Monaghan",1989,4,1,3
+"Monaghan",1990,4,1,3
+"Monaghan",1991,9,3,6
+"Monaghan",1992,10,0,10
+"Monaghan",1993,5,1,4
+"Monaghan",1994,9,2,7
+"Monaghan",1995,4,0,4
+"Monaghan",1996,12,2,10
+"Monaghan",1997,7,2,5
+"Monaghan",1998,8,1,7
+"Monaghan",1999,5,0,5
+"Monaghan",2000,11,1,10
+"Monaghan",2001,2,0,2
+"Monaghan",2002,4,0,4
+"Monaghan",2003,13,1,12
+"Monaghan",2004,7,0,7
+"Monaghan",2005,7,1,6
+"Monaghan",2006,4,1,3
+"Monaghan",2007,6,0,6
+"Monaghan",2008,7,1,6
+"Monaghan",2009,7,1,6
+"Monaghan",2010,8,1,7
+"Monaghan",2011,4,0,4
+"Monaghan",2012,12,4,8
+"Monaghan",2013,9,3,6
+"Offaly",1980,2,0,2
+"Offaly",1981,4,1,3
+"Offaly",1982,5,1,4
+"Offaly",1983,1,0,1
+"Offaly",1984,4,1,3
+"Offaly",1985,7,3,4
+"Offaly",1986,2,0,2
+"Offaly",1987,3,0,3
+"Offaly",1988,3,1,2
+"Offaly",1989,4,1,3
+"Offaly",1990,3,2,1
+"Offaly",1991,8,0,8
+"Offaly",1992,8,1,7
+"Offaly",1993,6,1,5
+"Offaly",1994,8,2,6
+"Offaly",1995,11,1,10
+"Offaly",1996,3,0,3
+"Offaly",1997,6,2,4
+"Offaly",1998,10,1,9
+"Offaly",1999,9,4,5
+"Offaly",2000,18,2,16
+"Offaly",2001,12,1,11
+"Offaly",2002,11,0,11
+"Offaly",2003,11,4,7
+"Offaly",2004,9,2,7
+"Offaly",2005,8,1,7
+"Offaly",2006,9,3,6
+"Offaly",2007,8,1,7
+"Offaly",2008,13,4,9
+"Offaly",2009,12,3,9
+"Offaly",2010,15,5,10
+"Offaly",2011,10,1,9
+"Offaly",2012,12,2,10
+"Offaly",2013,8,0,8
+"Roscommon",1980,1,1,0
+"Roscommon",1981,3,2,1
+"Roscommon",1982,6,0,6
+"Roscommon",1983,4,1,3
+"Roscommon",1984,5,1,4
+"Roscommon",1985,8,0,8
+"Roscommon",1986,3,1,2
+"Roscommon",1987,7,0,7
+"Roscommon",1988,7,2,5
+"Roscommon",1989,3,1,2
+"Roscommon",1990,7,0,7
+"Roscommon",1991,4,0,4
+"Roscommon",1992,3,1,2
+"Roscommon",1993,5,1,4
+"Roscommon",1994,5,1,4
+"Roscommon",1995,8,0,8
+"Roscommon",1996,2,0,2
+"Roscommon",1997,7,0,7
+"Roscommon",1998,7,0,7
+"Roscommon",1999,6,1,5
+"Roscommon",2000,6,1,5
+"Roscommon",2001,5,1,4
+"Roscommon",2002,4,0,4
+"Roscommon",2003,3,1,2
+"Roscommon",2004,2,0,2
+"Roscommon",2005,9,1,8
+"Roscommon",2006,11,2,9
+"Roscommon",2007,11,3,8
+"Roscommon",2008,6,2,4
+"Roscommon",2009,5,2,3
+"Roscommon",2010,10,2,8
+"Roscommon",2011,5,1,4
+"Roscommon",2012,7,2,5
+"Roscommon",2013,12,3,9
+"Sligo",1980,4,0,4
+"Sligo",1981,1,1,0
+"Sligo",1982,7,3,4
+"Sligo",1983,5,1,4
+"Sligo",1984,2,1,1
+"Sligo",1985,3,2,1
+"Sligo",1986,6,1,5
+"Sligo",1987,2,1,1
+"Sligo",1988,4,2,2
+"Sligo",1989,3,1,2
+"Sligo",1990,3,0,3
+"Sligo",1991,10,3,7
+"Sligo",1992,3,0,3
+"Sligo",1993,10,2,8
+"Sligo",1994,5,1,4
+"Sligo",1995,7,2,5
+"Sligo",1996,5,2,3
+"Sligo",1997,3,1,2
+"Sligo",1998,12,2,10
+"Sligo",1999,6,0,6
+"Sligo",2000,3,0,3
+"Sligo",2001,10,2,8
+"Sligo",2002,4,1,3
+"Sligo",2003,7,0,7
+"Sligo",2004,11,3,8
+"Sligo",2005,8,1,7
+"Sligo",2006,5,2,3
+"Sligo",2007,3,1,2
+"Sligo",2008,5,1,4
+"Sligo",2009,6,0,6
+"Sligo",2010,9,2,7
+"Sligo",2011,7,1,6
+"Sligo",2012,7,3,4
+"Sligo",2013,4,0,4
+"Tipperary North",1980,6,2,4
+"Tipperary North",1981,4,1,3
+"Tipperary North",1982,0,0,0
+"Tipperary North",1983,3,1,2
+"Tipperary North",1984,2,1,1
+"Tipperary North",1985,5,1,4
+"Tipperary North",1986,8,3,5
+"Tipperary North",1987,5,1,4
+"Tipperary North",1988,5,1,4
+"Tipperary North",1989,5,0,5
+"Tipperary North",1990,2,0,2
+"Tipperary North",1991,6,1,5
+"Tipperary North",1992,9,2,7
+"Tipperary North",1993,4,0,4
+"Tipperary North",1994,6,0,6
+"Tipperary North",1995,5,0,5
+"Tipperary North",1996,7,2,5
+"Tipperary North",1997,7,0,7
+"Tipperary North",1998,6,1,5
+"Tipperary North",1999,10,4,6
+"Tipperary North",2000,9,3,6
+"Tipperary North",2001,10,2,8
+"Tipperary North",2002,11,2,9
+"Tipperary North",2003,15,4,11
+"Tipperary North",2004,14,2,12
+"Tipperary North",2005,9,0,9
+"Tipperary North",2006,14,5,9
+"Tipperary North",2007,6,1,5
+"Tipperary North",2008,10,1,9
+"Tipperary North",2009,15,1,14
+"Tipperary North",2010,6,0,6
+"Tipperary North",2011,10,2,8
+"Tipperary North",2012,5,0,5
+"Tipperary North",2013,6,0,6
+"Tipperary South",1980,1,0,1
+"Tipperary South",1981,6,1,5
+"Tipperary South",1982,6,1,5
+"Tipperary South",1983,5,1,4
+"Tipperary South",1984,4,2,2
+"Tipperary South",1985,4,1,3
+"Tipperary South",1986,10,3,7
+"Tipperary South",1987,8,2,6
+"Tipperary South",1988,6,1,5
+"Tipperary South",1989,10,2,8
+"Tipperary South",1990,10,3,7
+"Tipperary South",1991,6,0,6
+"Tipperary South",1992,7,1,6
+"Tipperary South",1993,4,1,3
+"Tipperary South",1994,9,1,8
+"Tipperary South",1995,11,0,11
+"Tipperary South",1996,9,1,8
+"Tipperary South",1997,9,1,8
+"Tipperary South",1998,14,3,11
+"Tipperary South",1999,12,2,10
+"Tipperary South",2000,11,1,10
+"Tipperary South",2001,13,2,11
+"Tipperary South",2002,11,1,10
+"Tipperary South",2003,10,5,5
+"Tipperary South",2004,10,1,9
+"Tipperary South",2005,8,0,8
+"Tipperary South",2006,8,0,8
+"Tipperary South",2007,12,4,8
+"Tipperary South",2008,11,1,10
+"Tipperary South",2009,14,3,11
+"Tipperary South",2010,13,2,11
+"Tipperary South",2011,12,2,10
+"Tipperary South",2012,13,1,12
+"Tipperary South",2013,12,0,12
+"Waterford",1980,0,0,0
+"Waterford",1981,5,2,3
+"Waterford",1982,5,2,3
+"Waterford",1983,4,1,3
+"Waterford",1984,4,1,3
+"Waterford",1985,13,2,11
+"Waterford",1986,9,2,7
+"Waterford",1987,13,1,12
+"Waterford",1988,6,4,2
+"Waterford",1989,13,3,10
+"Waterford",1990,13,0,13
+"Waterford",1991,6,0,6
+"Waterford",1992,14,5,9
+"Waterford",1993,18,5,13
+"Waterford",1994,13,1,12
+"Waterford",1995,9,3,6
+"Waterford",1996,8,1,7
+"Waterford",1997,18,5,13
+"Waterford",1998,11,2,9
+"Waterford",1999,11,3,8
+"Waterford",2000,12,2,10
+"Waterford",2001,17,2,15
+"Waterford",2002,12,4,8
+"Waterford",2003,14,4,10
+"Waterford",2004,23,5,18
+"Waterford",2005,12,1,11
+"Waterford",2006,11,2,9
+"Waterford",2007,12,2,10
+"Waterford",2008,15,3,12
+"Waterford",2009,18,3,15
+"Waterford",2010,13,2,11
+"Waterford",2011,14,1,13
+"Waterford",2012,11,0,11
+"Waterford",2013,9,0,9
+"Westmeath",1980,1,1,0
+"Westmeath",1981,0,0,0
+"Westmeath",1982,3,1,2
+"Westmeath",1983,7,4,3
+"Westmeath",1984,5,2,3
+"Westmeath",1985,7,1,6
+"Westmeath",1986,4,0,4
+"Westmeath",1987,1,0,1
+"Westmeath",1988,6,2,4
+"Westmeath",1989,3,2,1
+"Westmeath",1990,9,4,5
+"Westmeath",1991,6,1,5
+"Westmeath",1992,3,0,3
+"Westmeath",1993,6,0,6
+"Westmeath",1994,7,0,7
+"Westmeath",1995,9,2,7
+"Westmeath",1996,8,3,5
+"Westmeath",1997,4,0,4
+"Westmeath",1998,13,3,10
+"Westmeath",1999,13,0,13
+"Westmeath",2000,9,3,6
+"Westmeath",2001,9,1,8
+"Westmeath",2002,6,0,6
+"Westmeath",2003,9,1,8
+"Westmeath",2004,8,1,7
+"Westmeath",2005,16,2,14
+"Westmeath",2006,5,0,5
+"Westmeath",2007,11,6,5
+"Westmeath",2008,14,1,13
+"Westmeath",2009,11,4,7
+"Westmeath",2010,13,1,12
+"Westmeath",2011,12,2,10
+"Westmeath",2012,9,0,9
+"Westmeath",2013,11,0,11
+"Wexford",1980,2,1,1
+"Wexford",1981,5,0,5
+"Wexford",1982,6,1,5
+"Wexford",1983,6,2,4
+"Wexford",1984,6,0,6
+"Wexford",1985,3,1,2
+"Wexford",1986,7,0,7
+"Wexford",1987,5,1,4
+"Wexford",1988,3,0,3
+"Wexford",1989,6,1,5
+"Wexford",1990,11,2,9
+"Wexford",1991,13,3,10
+"Wexford",1992,7,0,7
+"Wexford",1993,10,2,8
+"Wexford",1994,16,1,15
+"Wexford",1995,16,4,12
+"Wexford",1996,12,1,11
+"Wexford",1997,21,6,15
+"Wexford",1998,18,4,14
+"Wexford",1999,16,0,16
+"Wexford",2000,23,3,20
+"Wexford",2001,19,2,17
+"Wexford",2002,17,2,15
+"Wexford",2003,22,2,20
+"Wexford",2004,11,1,10
+"Wexford",2005,24,6,18
+"Wexford",2006,16,1,15
+"Wexford",2007,21,3,18
+"Wexford",2008,18,2,16
+"Wexford",2009,19,6,13
+"Wexford",2010,16,2,14
+"Wexford",2011,29,5,24
+"Wexford",2012,33,7,26
+"Wexford",2013,23,5,18
+"Wicklow",1980,3,0,3
+"Wicklow",1981,8,3,5
+"Wicklow",1982,4,0,4
+"Wicklow",1983,9,6,3
+"Wicklow",1984,1,0,1
+"Wicklow",1985,2,0,2
+"Wicklow",1986,2,0,2
+"Wicklow",1987,2,0,2
+"Wicklow",1988,8,3,5
+"Wicklow",1989,5,0,5
+"Wicklow",1990,9,3,6
+"Wicklow",1991,5,1,4
+"Wicklow",1992,9,1,8
+"Wicklow",1993,7,1,6
+"Wicklow",1994,7,2,5
+"Wicklow",1995,9,3,6
+"Wicklow",1996,10,1,9
+"Wicklow",1997,14,1,13
+"Wicklow",1998,18,3,15
+"Wicklow",1999,17,1,16
+"Wicklow",2000,9,3,6
+"Wicklow",2001,9,2,7
+"Wicklow",2002,15,2,13
+"Wicklow",2003,15,1,14
+"Wicklow",2004,14,2,12
+"Wicklow",2005,17,7,10
+"Wicklow",2006,18,2,16
+"Wicklow",2007,9,1,8
+"Wicklow",2008,13,4,9
+"Wicklow",2009,15,3,12
+"Wicklow",2010,15,2,13
+"Wicklow",2011,17,4,13
+"Wicklow",2012,10,2,8
+"Wicklow",2013,5,1,4

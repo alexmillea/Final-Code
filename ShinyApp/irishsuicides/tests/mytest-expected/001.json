@@ -1,0 +1,90 @@
+{
+  "input": {
+    "bins": 43,
+    "clusters": 3,
+    "sidebarCollapsed": true,
+    "sidebarItemExpanded": null,
+    "xcol": "45-64",
+    "xcol-selectized": "",
+    "ycol": "25-44",
+    "ycol-selectized": ""
+  },
+  "output": {
+    "age": {
+      "html": "<div class=\"small-box bg-orange\">\n  <div class=\"inner\">\n    <h3>Males<\/h3>\n    <p>Gender With Highest Suicide 2013-17<\/p>\n  <\/div>\n  <div class=\"icon-large\">\n    <i class=\"fa fa-meeting\"><\/i>\n  <\/div>\n<\/div>",
+      "deps": [
+        {
+          "name": "font-awesome",
+          "version": "5.3.1",
+          "src": {
+            "href": "font-awesome-5.3.1"
+          },
+          "meta": null,
+          "script": null,
+          "stylesheet": [
+            "css/all.min.css",
+            "css/v4-shims.min.css"
+          ],
+          "head": null,
+          "attachment": null,
+          "all_files": true
+        }
+      ]
+    },
+    "count": {
+      "html": "<div class=\"small-box bg-purple\">\n  <div class=\"inner\">\n    <h3>760<\/h3>\n    <p>Total Suicides 2013-2017<\/p>\n  <\/div>\n  <div class=\"icon-large\">\n    <i class=\"fa fa-plus\"><\/i>\n  <\/div>\n<\/div>",
+      "deps": [
+        {
+          "name": "font-awesome",
+          "version": "5.3.1",
+          "src": {
+            "href": "font-awesome-5.3.1"
+          },
+          "meta": null,
+          "script": null,
+          "stylesheet": [
+            "css/all.min.css",
+            "css/v4-shims.min.css"
+          ],
+          "head": null,
+          "attachment": null,
+          "all_files": true
+        }
+      ]
+    },
+    "histogram": {
+      "message": "object 'suicide1317' not found",
+      "call": "hist(suicide1317$Male, col = \"blue\", breaks = input$bins)",
+      "type": null
+    },
+    "kmeans": {
+      "message": "object 'suicide1317' not found",
+      "call": "`<reactive:selectedData>`(...)",
+      "type": null
+    },
+    "location": {
+      "html": "<div class=\"small-box bg-green\">\n  <div class=\"inner\">\n    <h3>Dublin<\/h3>\n    <p>Location With Highest Rate 2013-17<\/p>\n  <\/div>\n  <div class=\"icon-large\">\n    <i class=\"fa fa-map\"><\/i>\n  <\/div>\n<\/div>",
+      "deps": [
+        {
+          "name": "font-awesome",
+          "version": "5.3.1",
+          "src": {
+            "href": "font-awesome-5.3.1"
+          },
+          "meta": null,
+          "script": null,
+          "stylesheet": [
+            "css/all.min.css",
+            "css/v4-shims.min.css"
+          ],
+          "head": null,
+          "attachment": null,
+          "all_files": true
+        }
+      ]
+    }
+  },
+  "export": {
+
+  }
+}

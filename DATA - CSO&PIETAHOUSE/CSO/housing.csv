@@ -1,0 +1,589 @@
+"Location","Category","Date","Price"
+"National","New House Prices (Euro)","1975",13254
+"National","Second Hand House Prices (Euro)","1975",12478
+"Dublin","New House Prices (Euro)","1975",13137
+"Dublin","Second Hand House Prices (Euro)","1975",12774
+"Cork","New House Prices (Euro)","1975",12921
+"Cork","Second Hand House Prices (Euro)","1975",0
+"Galway","New House Prices (Euro)","1975",14420
+"Galway","Second Hand House Prices (Euro)","1975",0
+"Limerick","New House Prices (Euro)","1975",13594
+"Limerick","Second Hand House Prices (Euro)","1975",0
+"Waterford","New House Prices (Euro)","1975",12636
+"Waterford","Second Hand House Prices (Euro)","1975",0
+"Otherareas","New House Prices (Euro)","1975",13833
+"Otherareas","Second Hand House Prices (Euro)","1975",0
+"National","New House Prices (Euro)","1976",15564
+"National","Second Hand House Prices (Euro)","1976",15303
+"Dublin","New House Prices (Euro)","1976",15342
+"Dublin","Second Hand House Prices (Euro)","1976",15850
+"Cork","New House Prices (Euro)","1976",15347
+"Cork","Second Hand House Prices (Euro)","1976",15139
+"Galway","New House Prices (Euro)","1976",17842
+"Galway","Second Hand House Prices (Euro)","1976",16858
+"Limerick","New House Prices (Euro)","1976",15279
+"Limerick","Second Hand House Prices (Euro)","1976",14018
+"Waterford","New House Prices (Euro)","1976",13900
+"Waterford","Second Hand House Prices (Euro)","1976",14545
+"Otherareas","New House Prices (Euro)","1976",15361
+"Otherareas","Second Hand House Prices (Euro)","1976",14161
+"National","New House Prices (Euro)","1977",18754
+"National","Second Hand House Prices (Euro)","1977",17925
+"Dublin","New House Prices (Euro)","1977",19055
+"Dublin","Second Hand House Prices (Euro)","1977",18778
+"Cork","New House Prices (Euro)","1977",18652
+"Cork","Second Hand House Prices (Euro)","1977",17898
+"Galway","New House Prices (Euro)","1977",21715
+"Galway","Second Hand House Prices (Euro)","1977",20792
+"Limerick","New House Prices (Euro)","1977",19992
+"Limerick","Second Hand House Prices (Euro)","1977",16681
+"Waterford","New House Prices (Euro)","1977",17296
+"Waterford","Second Hand House Prices (Euro)","1977",16505
+"Otherareas","New House Prices (Euro)","1977",18025
+"Otherareas","Second Hand House Prices (Euro)","1977",15980
+"National","New House Prices (Euro)","1978",24082
+"National","Second Hand House Prices (Euro)","1978",21895
+"Dublin","New House Prices (Euro)","1978",25745
+"Dublin","Second Hand House Prices (Euro)","1978",22920
+"Cork","New House Prices (Euro)","1978",22460
+"Cork","Second Hand House Prices (Euro)","1978",21427
+"Galway","New House Prices (Euro)","1978",26244
+"Galway","Second Hand House Prices (Euro)","1978",27862
+"Limerick","New House Prices (Euro)","1978",23077
+"Limerick","Second Hand House Prices (Euro)","1978",20136
+"Waterford","New House Prices (Euro)","1978",21295
+"Waterford","Second Hand House Prices (Euro)","1978",20381
+"Otherareas","New House Prices (Euro)","1978",22839
+"Otherareas","Second Hand House Prices (Euro)","1978",19736
+"National","New House Prices (Euro)","1979",29387
+"National","Second Hand House Prices (Euro)","1979",27598
+"Dublin","New House Prices (Euro)","1979",32005
+"Dublin","Second Hand House Prices (Euro)","1979",30092
+"Cork","New House Prices (Euro)","1979",29064
+"Cork","Second Hand House Prices (Euro)","1979",27734
+"Galway","New House Prices (Euro)","1979",30466
+"Galway","Second Hand House Prices (Euro)","1979",29539
+"Limerick","New House Prices (Euro)","1979",30538
+"Limerick","Second Hand House Prices (Euro)","1979",25847
+"Waterford","New House Prices (Euro)","1979",27164
+"Waterford","Second Hand House Prices (Euro)","1979",22565
+"Otherareas","New House Prices (Euro)","1979",27137
+"Otherareas","Second Hand House Prices (Euro)","1979",23711
+"National","New House Prices (Euro)","1980",34967
+"National","Second Hand House Prices (Euro)","1980",30927
+"Dublin","New House Prices (Euro)","1980",37822
+"Dublin","Second Hand House Prices (Euro)","1980",34129
+"Cork","New House Prices (Euro)","1980",34617
+"Cork","Second Hand House Prices (Euro)","1980",32387
+"Galway","New House Prices (Euro)","1980",33839
+"Galway","Second Hand House Prices (Euro)","1980",32978
+"Limerick","New House Prices (Euro)","1980",34340
+"Limerick","Second Hand House Prices (Euro)","1980",29656
+"Waterford","New House Prices (Euro)","1980",32136
+"Waterford","Second Hand House Prices (Euro)","1980",26046
+"Otherareas","New House Prices (Euro)","1980",32663
+"Otherareas","Second Hand House Prices (Euro)","1980",25966
+"National","New House Prices (Euro)","1981",40167
+"National","Second Hand House Prices (Euro)","1981",37394
+"Dublin","New House Prices (Euro)","1981",44456
+"Dublin","Second Hand House Prices (Euro)","1981",42193
+"Cork","New House Prices (Euro)","1981",35464
+"Cork","Second Hand House Prices (Euro)","1981",34777
+"Galway","New House Prices (Euro)","1981",39729
+"Galway","Second Hand House Prices (Euro)","1981",40333
+"Limerick","New House Prices (Euro)","1981",41520
+"Limerick","Second Hand House Prices (Euro)","1981",35282
+"Waterford","New House Prices (Euro)","1981",34638
+"Waterford","Second Hand House Prices (Euro)","1981",29994
+"Otherareas","New House Prices (Euro)","1981",37857
+"Otherareas","Second Hand House Prices (Euro)","1981",32025
+"National","New House Prices (Euro)","1982",44060
+"National","Second Hand House Prices (Euro)","1982",40308
+"Dublin","New House Prices (Euro)","1982",48886
+"Dublin","Second Hand House Prices (Euro)","1982",45912
+"Cork","New House Prices (Euro)","1982",38213
+"Cork","Second Hand House Prices (Euro)","1982",35437
+"Galway","New House Prices (Euro)","1982",45460
+"Galway","Second Hand House Prices (Euro)","1982",42275
+"Limerick","New House Prices (Euro)","1982",40195
+"Limerick","Second Hand House Prices (Euro)","1982",37630
+"Waterford","New House Prices (Euro)","1982",41741
+"Waterford","Second Hand House Prices (Euro)","1982",31957
+"Otherareas","New House Prices (Euro)","1982",42889
+"Otherareas","Second Hand House Prices (Euro)","1982",34591
+"National","New House Prices (Euro)","1983",44448
+"National","Second Hand House Prices (Euro)","1983",43204
+"Dublin","New House Prices (Euro)","1983",48169
+"Dublin","Second Hand House Prices (Euro)","1983",48249
+"Cork","New House Prices (Euro)","1983",39223
+"Cork","Second Hand House Prices (Euro)","1983",36836
+"Galway","New House Prices (Euro)","1983",45650
+"Galway","Second Hand House Prices (Euro)","1983",42943
+"Limerick","New House Prices (Euro)","1983",41430
+"Limerick","Second Hand House Prices (Euro)","1983",39866
+"Waterford","New House Prices (Euro)","1983",42132
+"Waterford","Second Hand House Prices (Euro)","1983",33706
+"Otherareas","New House Prices (Euro)","1983",43501
+"Otherareas","Second Hand House Prices (Euro)","1983",39397
+"National","New House Prices (Euro)","1984",45419
+"National","Second Hand House Prices (Euro)","1984",45208
+"Dublin","New House Prices (Euro)","1984",48819
+"Dublin","Second Hand House Prices (Euro)","1984",50936
+"Cork","New House Prices (Euro)","1984",41105
+"Cork","Second Hand House Prices (Euro)","1984",37032
+"Galway","New House Prices (Euro)","1984",45774
+"Galway","Second Hand House Prices (Euro)","1984",47385
+"Limerick","New House Prices (Euro)","1984",42944
+"Limerick","Second Hand House Prices (Euro)","1984",42021
+"Waterford","New House Prices (Euro)","1984",44115
+"Waterford","Second Hand House Prices (Euro)","1984",38022
+"Otherareas","New House Prices (Euro)","1984",43654
+"Otherareas","Second Hand House Prices (Euro)","1984",40920
+"National","New House Prices (Euro)","1985",46542
+"National","Second Hand House Prices (Euro)","1985",45608
+"Dublin","New House Prices (Euro)","1985",49166
+"Dublin","Second Hand House Prices (Euro)","1985",50382
+"Cork","New House Prices (Euro)","1985",42738
+"Cork","Second Hand House Prices (Euro)","1985",40210
+"Galway","New House Prices (Euro)","1985",49004
+"Galway","Second Hand House Prices (Euro)","1985",48220
+"Limerick","New House Prices (Euro)","1985",44511
+"Limerick","Second Hand House Prices (Euro)","1985",42640
+"Waterford","New House Prices (Euro)","1985",43741
+"Waterford","Second Hand House Prices (Euro)","1985",40262
+"Otherareas","New House Prices (Euro)","1985",45058
+"Otherareas","Second Hand House Prices (Euro)","1985",42079
+"National","New House Prices (Euro)","1986",48256
+"National","Second Hand House Prices (Euro)","1986",47082
+"Dublin","New House Prices (Euro)","1986",50891
+"Dublin","Second Hand House Prices (Euro)","1986",51450
+"Cork","New House Prices (Euro)","1986",43844
+"Cork","Second Hand House Prices (Euro)","1986",42577
+"Galway","New House Prices (Euro)","1986",49804
+"Galway","Second Hand House Prices (Euro)","1986",49767
+"Limerick","New House Prices (Euro)","1986",47222
+"Limerick","Second Hand House Prices (Euro)","1986",44088
+"Waterford","New House Prices (Euro)","1986",47928
+"Waterford","Second Hand House Prices (Euro)","1986",38473
+"Otherareas","New House Prices (Euro)","1986",46486
+"Otherareas","Second Hand House Prices (Euro)","1986",43491
+"National","New House Prices (Euro)","1987",48151
+"National","Second Hand House Prices (Euro)","1987",46330
+"Dublin","New House Prices (Euro)","1987",50864
+"Dublin","Second Hand House Prices (Euro)","1987",49139
+"Cork","New House Prices (Euro)","1987",45846
+"Cork","Second Hand House Prices (Euro)","1987",43873
+"Galway","New House Prices (Euro)","1987",48162
+"Galway","Second Hand House Prices (Euro)","1987",46427
+"Limerick","New House Prices (Euro)","1987",46946
+"Limerick","Second Hand House Prices (Euro)","1987",42784
+"Waterford","New House Prices (Euro)","1987",46966
+"Waterford","Second Hand House Prices (Euro)","1987",42243
+"Otherareas","New House Prices (Euro)","1987",45740
+"Otherareas","Second Hand House Prices (Euro)","1987",44225
+"National","New House Prices (Euro)","1988",52450
+"National","Second Hand House Prices (Euro)","1988",50501
+"Dublin","New House Prices (Euro)","1988",57994
+"Dublin","Second Hand House Prices (Euro)","1988",54077
+"Cork","New House Prices (Euro)","1988",49605
+"Cork","Second Hand House Prices (Euro)","1988",47752
+"Galway","New House Prices (Euro)","1988",52238
+"Galway","Second Hand House Prices (Euro)","1988",54088
+"Limerick","New House Prices (Euro)","1988",53296
+"Limerick","Second Hand House Prices (Euro)","1988",46048
+"Waterford","New House Prices (Euro)","1988",47531
+"Waterford","Second Hand House Prices (Euro)","1988",43318
+"Otherareas","New House Prices (Euro)","1988",47380
+"Otherareas","Second Hand House Prices (Euro)","1988",47900
+"National","New House Prices (Euro)","1989",58178
+"National","Second Hand House Prices (Euro)","1989",54586
+"Dublin","New House Prices (Euro)","1989",68393
+"Dublin","Second Hand House Prices (Euro)","1989",63148
+"Cork","New House Prices (Euro)","1989",54670
+"Cork","Second Hand House Prices (Euro)","1989",51032
+"Galway","New House Prices (Euro)","1989",57936
+"Galway","Second Hand House Prices (Euro)","1989",56866
+"Limerick","New House Prices (Euro)","1989",54732
+"Limerick","Second Hand House Prices (Euro)","1989",50132
+"Waterford","New House Prices (Euro)","1989",50506
+"Waterford","Second Hand House Prices (Euro)","1989",46400
+"Otherareas","New House Prices (Euro)","1989",51355
+"Otherareas","Second Hand House Prices (Euro)","1989",46965
+"National","New House Prices (Euro)","1990",65541
+"National","Second Hand House Prices (Euro)","1990",62387
+"Dublin","New House Prices (Euro)","1990",80749
+"Dublin","Second Hand House Prices (Euro)","1990",74833
+"Cork","New House Prices (Euro)","1990",61074
+"Cork","Second Hand House Prices (Euro)","1990",54803
+"Galway","New House Prices (Euro)","1990",68019
+"Galway","Second Hand House Prices (Euro)","1990",61413
+"Limerick","New House Prices (Euro)","1990",62258
+"Limerick","Second Hand House Prices (Euro)","1990",55615
+"Waterford","New House Prices (Euro)","1990",53904
+"Waterford","Second Hand House Prices (Euro)","1990",49041
+"Otherareas","New House Prices (Euro)","1990",55729
+"Otherareas","Second Hand House Prices (Euro)","1990",52270
+"National","New House Prices (Euro)","1991",66914
+"National","Second Hand House Prices (Euro)","1991",64122
+"Dublin","New House Prices (Euro)","1991",78715
+"Dublin","Second Hand House Prices (Euro)","1991",76075
+"Cork","New House Prices (Euro)","1991",64651
+"Cork","Second Hand House Prices (Euro)","1991",56959
+"Galway","New House Prices (Euro)","1991",66784
+"Galway","Second Hand House Prices (Euro)","1991",62226
+"Limerick","New House Prices (Euro)","1991",64598
+"Limerick","Second Hand House Prices (Euro)","1991",54985
+"Waterford","New House Prices (Euro)","1991",53366
+"Waterford","Second Hand House Prices (Euro)","1991",48188
+"Otherareas","New House Prices (Euro)","1991",58645
+"Otherareas","Second Hand House Prices (Euro)","1991",54591
+"National","New House Prices (Euro)","1992",69264
+"National","Second Hand House Prices (Euro)","1992",65331
+"Dublin","New House Prices (Euro)","1992",79200
+"Dublin","Second Hand House Prices (Euro)","1992",77490
+"Cork","New House Prices (Euro)","1992",65107
+"Cork","Second Hand House Prices (Euro)","1992",56979
+"Galway","New House Prices (Euro)","1992",75417
+"Galway","Second Hand House Prices (Euro)","1992",62874
+"Limerick","New House Prices (Euro)","1992",60184
+"Limerick","Second Hand House Prices (Euro)","1992",55838
+"Waterford","New House Prices (Euro)","1992",52656
+"Waterford","Second Hand House Prices (Euro)","1992",52885
+"Otherareas","New House Prices (Euro)","1992",62433
+"Otherareas","Second Hand House Prices (Euro)","1992",56496
+"National","New House Prices (Euro)","1993",69883
+"National","Second Hand House Prices (Euro)","1993",66736
+"Dublin","New House Prices (Euro)","1993",75539
+"Dublin","Second Hand House Prices (Euro)","1993",76814
+"Cork","New House Prices (Euro)","1993",68172
+"Cork","Second Hand House Prices (Euro)","1993",59669
+"Galway","New House Prices (Euro)","1993",74761
+"Galway","Second Hand House Prices (Euro)","1993",71298
+"Limerick","New House Prices (Euro)","1993",66825
+"Limerick","Second Hand House Prices (Euro)","1993",59816
+"Waterford","New House Prices (Euro)","1993",61341
+"Waterford","Second Hand House Prices (Euro)","1993",57908
+"Otherareas","New House Prices (Euro)","1993",65025
+"Otherareas","Second Hand House Prices (Euro)","1993",58672
+"National","New House Prices (Euro)","1994",72732
+"National","Second Hand House Prices (Euro)","1994",69877
+"Dublin","New House Prices (Euro)","1994",81993
+"Dublin","Second Hand House Prices (Euro)","1994",82772
+"Cork","New House Prices (Euro)","1994",71378
+"Cork","Second Hand House Prices (Euro)","1994",63883
+"Galway","New House Prices (Euro)","1994",77375
+"Galway","Second Hand House Prices (Euro)","1994",69258
+"Limerick","New House Prices (Euro)","1994",68238
+"Limerick","Second Hand House Prices (Euro)","1994",58405
+"Waterford","New House Prices (Euro)","1994",69185
+"Waterford","Second Hand House Prices (Euro)","1994",55347
+"Otherareas","New House Prices (Euro)","1994",66829
+"Otherareas","Second Hand House Prices (Euro)","1994",61567
+"National","New House Prices (Euro)","1995",77994
+"National","Second Hand House Prices (Euro)","1995",74313
+"Dublin","New House Prices (Euro)","1995",86671
+"Dublin","Second Hand House Prices (Euro)","1995",88939
+"Cork","New House Prices (Euro)","1995",76608
+"Cork","Second Hand House Prices (Euro)","1995",70796
+"Galway","New House Prices (Euro)","1995",87783
+"Galway","Second Hand House Prices (Euro)","1995",78370
+"Limerick","New House Prices (Euro)","1995",73348
+"Limerick","Second Hand House Prices (Euro)","1995",61099
+"Waterford","New House Prices (Euro)","1995",69950
+"Waterford","Second Hand House Prices (Euro)","1995",59409
+"Otherareas","New House Prices (Euro)","1995",71829
+"Otherareas","Second Hand House Prices (Euro)","1995",64170
+"National","New House Prices (Euro)","1996",87202
+"National","Second Hand House Prices (Euro)","1996",85629
+"Dublin","New House Prices (Euro)","1996",97058
+"Dublin","Second Hand House Prices (Euro)","1996",104431
+"Cork","New House Prices (Euro)","1996",85351
+"Cork","Second Hand House Prices (Euro)","1996",77152
+"Galway","New House Prices (Euro)","1996",93050
+"Galway","Second Hand House Prices (Euro)","1996",88020
+"Limerick","New House Prices (Euro)","1996",83281
+"Limerick","Second Hand House Prices (Euro)","1996",71066
+"Waterford","New House Prices (Euro)","1996",79784
+"Waterford","Second Hand House Prices (Euro)","1996",62956
+"Otherareas","New House Prices (Euro)","1996",82091
+"Otherareas","Second Hand House Prices (Euro)","1996",74254
+"National","New House Prices (Euro)","1997",102222
+"National","Second Hand House Prices (Euro)","1997",102712
+"Dublin","New House Prices (Euro)","1997",122036
+"Dublin","Second Hand House Prices (Euro)","1997",131258
+"Cork","New House Prices (Euro)","1997",96046
+"Cork","Second Hand House Prices (Euro)","1997",88535
+"Galway","New House Prices (Euro)","1997",109905
+"Galway","Second Hand House Prices (Euro)","1997",100791
+"Limerick","New House Prices (Euro)","1997",91077
+"Limerick","Second Hand House Prices (Euro)","1997",78256
+"Waterford","New House Prices (Euro)","1997",91608
+"Waterford","Second Hand House Prices (Euro)","1997",73308
+"Otherareas","New House Prices (Euro)","1997",94664
+"Otherareas","Second Hand House Prices (Euro)","1997",86347
+"National","New House Prices (Euro)","1998",125302
+"National","Second Hand House Prices (Euro)","1998",134529
+"Dublin","New House Prices (Euro)","1998",160699
+"Dublin","Second Hand House Prices (Euro)","1998",176420
+"Cork","New House Prices (Euro)","1998",112133
+"Cork","Second Hand House Prices (Euro)","1998",110432
+"Galway","New House Prices (Euro)","1998",118738
+"Galway","Second Hand House Prices (Euro)","1998",126914
+"Limerick","New House Prices (Euro)","1998",104248
+"Limerick","Second Hand House Prices (Euro)","1998",96791
+"Waterford","New House Prices (Euro)","1998",107954
+"Waterford","Second Hand House Prices (Euro)","1998",93948
+"Otherareas","New House Prices (Euro)","1998",116589
+"Otherareas","Second Hand House Prices (Euro)","1998",111878
+"National","New House Prices (Euro)","1999",148521
+"National","Second Hand House Prices (Euro)","1999",163316
+"Dublin","New House Prices (Euro)","1999",193526
+"Dublin","Second Hand House Prices (Euro)","1999",210610
+"Cork","New House Prices (Euro)","1999",141007
+"Cork","Second Hand House Prices (Euro)","1999",139473
+"Galway","New House Prices (Euro)","1999",138928
+"Galway","Second Hand House Prices (Euro)","1999",147152
+"Limerick","New House Prices (Euro)","1999",121880
+"Limerick","Second Hand House Prices (Euro)","1999",119072
+"Waterford","New House Prices (Euro)","1999",132050
+"Waterford","Second Hand House Prices (Euro)","1999",115768
+"Otherareas","New House Prices (Euro)","1999",136970
+"Otherareas","Second Hand House Prices (Euro)","1999",135096
+"National","New House Prices (Euro)","2000",169191
+"National","Second Hand House Prices (Euro)","2000",190550
+"Dublin","New House Prices (Euro)","2000",221724
+"Dublin","Second Hand House Prices (Euro)","2000",247039
+"Cork","New House Prices (Euro)","2000",166557
+"Cork","Second Hand House Prices (Euro)","2000",169064
+"Galway","New House Prices (Euro)","2000",163824
+"Galway","Second Hand House Prices (Euro)","2000",166145
+"Limerick","New House Prices (Euro)","2000",145834
+"Limerick","Second Hand House Prices (Euro)","2000",142188
+"Waterford","New House Prices (Euro)","2000",145713
+"Waterford","Second Hand House Prices (Euro)","2000",141662
+"Otherareas","New House Prices (Euro)","2000",154050
+"Otherareas","Second Hand House Prices (Euro)","2000",158442
+"National","New House Prices (Euro)","2001",182863
+"National","Second Hand House Prices (Euro)","2001",206117
+"Dublin","New House Prices (Euro)","2001",243095
+"Dublin","Second Hand House Prices (Euro)","2001",267939
+"Cork","New House Prices (Euro)","2001",174550
+"Cork","Second Hand House Prices (Euro)","2001",179687
+"Galway","New House Prices (Euro)","2001",171161
+"Galway","Second Hand House Prices (Euro)","2001",189713
+"Limerick","New House Prices (Euro)","2001",152205
+"Limerick","Second Hand House Prices (Euro)","2001",157176
+"Waterford","New House Prices (Euro)","2001",155488
+"Waterford","Second Hand House Prices (Euro)","2001",155242
+"Otherareas","New House Prices (Euro)","2001",166834
+"Otherareas","Second Hand House Prices (Euro)","2001",171203
+"National","New House Prices (Euro)","2002",198087
+"National","Second Hand House Prices (Euro)","2002",227799
+"Dublin","New House Prices (Euro)","2002",256109
+"Dublin","Second Hand House Prices (Euro)","2002",297424
+"Cork","New House Prices (Euro)","2002",184369
+"Cork","Second Hand House Prices (Euro)","2002",200155
+"Galway","New House Prices (Euro)","2002",187607
+"Galway","Second Hand House Prices (Euro)","2002",206571
+"Limerick","New House Prices (Euro)","2002",168574
+"Limerick","Second Hand House Prices (Euro)","2002",172273
+"Waterford","New House Prices (Euro)","2002",167272
+"Waterford","Second Hand House Prices (Euro)","2002",170342
+"Otherareas","New House Prices (Euro)","2002",179936
+"Otherareas","Second Hand House Prices (Euro)","2002",192301
+"National","New House Prices (Euro)","2003",224567
+"National","Second Hand House Prices (Euro)","2003",264898
+"Dublin","New House Prices (Euro)","2003",291646
+"Dublin","Second Hand House Prices (Euro)","2003",355451
+"Cork","New House Prices (Euro)","2003",211980
+"Cork","Second Hand House Prices (Euro)","2003",240444
+"Galway","New House Prices (Euro)","2003",223388
+"Galway","Second Hand House Prices (Euro)","2003",249404
+"Limerick","New House Prices (Euro)","2003",197672
+"Limerick","Second Hand House Prices (Euro)","2003",201477
+"Waterford","New House Prices (Euro)","2003",195173
+"Waterford","Second Hand House Prices (Euro)","2003",201871
+"Otherareas","New House Prices (Euro)","2003",203125
+"Otherareas","Second Hand House Prices (Euro)","2003",218061
+"National","New House Prices (Euro)","2004",249191
+"National","Second Hand House Prices (Euro)","2004",294667
+"Dublin","New House Prices (Euro)","2004",322628
+"Dublin","Second Hand House Prices (Euro)","2004",389791
+"Cork","New House Prices (Euro)","2004",237858
+"Cork","Second Hand House Prices (Euro)","2004",273605
+"Galway","New House Prices (Euro)","2004",242218
+"Galway","Second Hand House Prices (Euro)","2004",278813
+"Limerick","New House Prices (Euro)","2004",210868
+"Limerick","Second Hand House Prices (Euro)","2004",218869
+"Waterford","New House Prices (Euro)","2004",220286
+"Waterford","Second Hand House Prices (Euro)","2004",220029
+"Otherareas","New House Prices (Euro)","2004",228057
+"Otherareas","Second Hand House Prices (Euro)","2004",235829
+"National","New House Prices (Euro)","2005",276221
+"National","Second Hand House Prices (Euro)","2005",330399
+"Dublin","New House Prices (Euro)","2005",350891
+"Dublin","Second Hand House Prices (Euro)","2005",438790
+"Cork","New House Prices (Euro)","2005",265644
+"Cork","Second Hand House Prices (Euro)","2005",307007
+"Galway","New House Prices (Euro)","2005",274905
+"Galway","Second Hand House Prices (Euro)","2005",317811
+"Limerick","New House Prices (Euro)","2005",226393
+"Limerick","Second Hand House Prices (Euro)","2005",232271
+"Waterford","New House Prices (Euro)","2005",246914
+"Waterford","Second Hand House Prices (Euro)","2005",252765
+"Otherareas","New House Prices (Euro)","2005",254006
+"Otherareas","Second Hand House Prices (Euro)","2005",263653
+"National","New House Prices (Euro)","2006",305637
+"National","Second Hand House Prices (Euro)","2006",371447
+"Dublin","New House Prices (Euro)","2006",405957
+"Dublin","Second Hand House Prices (Euro)","2006",512461
+"Cork","New House Prices (Euro)","2006",305015
+"Cork","Second Hand House Prices (Euro)","2006",353104
+"Galway","New House Prices (Euro)","2006",286176
+"Galway","Second Hand House Prices (Euro)","2006",336948
+"Limerick","New House Prices (Euro)","2006",275411
+"Limerick","Second Hand House Prices (Euro)","2006",257958
+"Waterford","New House Prices (Euro)","2006",271521
+"Waterford","Second Hand House Prices (Euro)","2006",282998
+"Otherareas","New House Prices (Euro)","2006",276570
+"Otherareas","Second Hand House Prices (Euro)","2006",294021
+"National","New House Prices (Euro)","2007",322634
+"National","Second Hand House Prices (Euro)","2007",377850
+"Dublin","New House Prices (Euro)","2007",416225
+"Dublin","Second Hand House Prices (Euro)","2007",495576
+"Cork","New House Prices (Euro)","2007",325453
+"Cork","Second Hand House Prices (Euro)","2007",368523
+"Galway","New House Prices (Euro)","2007",300750
+"Galway","Second Hand House Prices (Euro)","2007",344958
+"Limerick","New House Prices (Euro)","2007",288202
+"Limerick","Second Hand House Prices (Euro)","2007",273640
+"Waterford","New House Prices (Euro)","2007",292057
+"Waterford","Second Hand House Prices (Euro)","2007",287483
+"Otherareas","New House Prices (Euro)","2007",296605
+"Otherareas","Second Hand House Prices (Euro)","2007",313487
+"National","New House Prices (Euro)","2008",305269
+"National","Second Hand House Prices (Euro)","2008",348804
+"Dublin","New House Prices (Euro)","2008",370495
+"Dublin","Second Hand House Prices (Euro)","2008",444207
+"Cork","New House Prices (Euro)","2008",314276
+"Cork","Second Hand House Prices (Euro)","2008",340467
+"Galway","New House Prices (Euro)","2008",292777
+"Galway","Second Hand House Prices (Euro)","2008",333778
+"Limerick","New House Prices (Euro)","2008",276719
+"Limerick","Second Hand House Prices (Euro)","2008",259997
+"Waterford","New House Prices (Euro)","2008",288478
+"Waterford","Second Hand House Prices (Euro)","2008",286310
+"Otherareas","New House Prices (Euro)","2008",282677
+"Otherareas","Second Hand House Prices (Euro)","2008",298235
+"National","New House Prices (Euro)","2009",242033
+"National","Second Hand House Prices (Euro)","2009",275250
+"Dublin","New House Prices (Euro)","2009",260170
+"Dublin","Second Hand House Prices (Euro)","2009",345444
+"Cork","New House Prices (Euro)","2009",252011
+"Cork","Second Hand House Prices (Euro)","2009",245224
+"Galway","New House Prices (Euro)","2009",236113
+"Galway","Second Hand House Prices (Euro)","2009",259285
+"Limerick","New House Prices (Euro)","2009",260684
+"Limerick","Second Hand House Prices (Euro)","2009",198208
+"Waterford","New House Prices (Euro)","2009",227444
+"Waterford","Second Hand House Prices (Euro)","2009",217874
+"Otherareas","New House Prices (Euro)","2009",231739
+"Otherareas","Second Hand House Prices (Euro)","2009",222641
+"National","New House Prices (Euro)","2010",228268
+"National","Second Hand House Prices (Euro)","2010",274125
+"Dublin","New House Prices (Euro)","2010",251629
+"Dublin","Second Hand House Prices (Euro)","2010",344891
+"Cork","New House Prices (Euro)","2010",244333
+"Cork","Second Hand House Prices (Euro)","2010",251756
+"Galway","New House Prices (Euro)","2010",219459
+"Galway","Second Hand House Prices (Euro)","2010",236695
+"Limerick","New House Prices (Euro)","2010",224778
+"Limerick","Second Hand House Prices (Euro)","2010",215023
+"Waterford","New House Prices (Euro)","2010",224021
+"Waterford","Second Hand House Prices (Euro)","2010",197234
+"Otherareas","New House Prices (Euro)","2010",218097
+"Otherareas","Second Hand House Prices (Euro)","2010",212769
+"National","New House Prices (Euro)","2011",230303
+"National","Second Hand House Prices (Euro)","2011",260387
+"Dublin","New House Prices (Euro)","2011",290668
+"Dublin","Second Hand House Prices (Euro)","2011",330894
+"Cork","New House Prices (Euro)","2011",241502
+"Cork","Second Hand House Prices (Euro)","2011",228763
+"Galway","New House Prices (Euro)","2011",229558
+"Galway","Second Hand House Prices (Euro)","2011",216748
+"Limerick","New House Prices (Euro)","2011",216307
+"Limerick","Second Hand House Prices (Euro)","2011",205530
+"Waterford","New House Prices (Euro)","2011",205598
+"Waterford","Second Hand House Prices (Euro)","2011",190315
+"Otherareas","New House Prices (Euro)","2011",216400
+"Otherareas","Second Hand House Prices (Euro)","2011",198186
+"National","New House Prices (Euro)","2012",220415
+"National","Second Hand House Prices (Euro)","2012",249132
+"Dublin","New House Prices (Euro)","2012",265633
+"Dublin","Second Hand House Prices (Euro)","2012",320947
+"Cork","New House Prices (Euro)","2012",235473
+"Cork","Second Hand House Prices (Euro)","2012",219544
+"Galway","New House Prices (Euro)","2012",219233
+"Galway","Second Hand House Prices (Euro)","2012",205611
+"Limerick","New House Prices (Euro)","2012",212902
+"Limerick","Second Hand House Prices (Euro)","2012",190321
+"Waterford","New House Prices (Euro)","2012",179716
+"Waterford","Second Hand House Prices (Euro)","2012",169142
+"Otherareas","New House Prices (Euro)","2012",207957
+"Otherareas","Second Hand House Prices (Euro)","2012",183699
+"National","New House Prices (Euro)","2013",228216
+"National","Second Hand House Prices (Euro)","2013",255912
+"Dublin","New House Prices (Euro)","2013",300466
+"Dublin","Second Hand House Prices (Euro)","2013",350239
+"Cork","New House Prices (Euro)","2013",240063
+"Cork","Second Hand House Prices (Euro)","2013",210723
+"Galway","New House Prices (Euro)","2013",218308
+"Galway","Second Hand House Prices (Euro)","2013",199224
+"Limerick","New House Prices (Euro)","2013",206456
+"Limerick","Second Hand House Prices (Euro)","2013",175978
+"Waterford","New House Prices (Euro)","2013",154051
+"Waterford","Second Hand House Prices (Euro)","2013",160263
+"Otherareas","New House Prices (Euro)","2013",207573
+"Otherareas","Second Hand House Prices (Euro)","2013",175592
+"National","New House Prices (Euro)","2014",246378
+"National","Second Hand House Prices (Euro)","2014",261634
+"Dublin","New House Prices (Euro)","2014",333720
+"Dublin","Second Hand House Prices (Euro)","2014",347700
+"Cork","New House Prices (Euro)","2014",242099
+"Cork","Second Hand House Prices (Euro)","2014",209926
+"Galway","New House Prices (Euro)","2014",218016
+"Galway","Second Hand House Prices (Euro)","2014",198869
+"Limerick","New House Prices (Euro)","2014",208442
+"Limerick","Second Hand House Prices (Euro)","2014",170383
+"Waterford","New House Prices (Euro)","2014",177122
+"Waterford","Second Hand House Prices (Euro)","2014",168446
+"Otherareas","New House Prices (Euro)","2014",214404
+"Otherareas","Second Hand House Prices (Euro)","2014",184000
+"National","New House Prices (Euro)","2015",281432
+"National","Second Hand House Prices (Euro)","2015",264565
+"Dublin","New House Prices (Euro)","2015",377741
+"Dublin","Second Hand House Prices (Euro)","2015",335013
+"Cork","New House Prices (Euro)","2015",255010
+"Cork","Second Hand House Prices (Euro)","2015",221723
+"Galway","New House Prices (Euro)","2015",241058
+"Galway","Second Hand House Prices (Euro)","2015",201805
+"Limerick","New House Prices (Euro)","2015",232791
+"Limerick","Second Hand House Prices (Euro)","2015",173914
+"Waterford","New House Prices (Euro)","2015",213506
+"Waterford","Second Hand House Prices (Euro)","2015",167364
+"Otherareas","New House Prices (Euro)","2015",251437
+"Otherareas","Second Hand House Prices (Euro)","2015",199241
+"National","New House Prices (Euro)","2016",313483
+"National","Second Hand House Prices (Euro)","2016",276272
+"Dublin","New House Prices (Euro)","2016",397676
+"Dublin","Second Hand House Prices (Euro)","2016",351354
+"Cork","New House Prices (Euro)","2016",293343
+"Cork","Second Hand House Prices (Euro)","2016",240683
+"Galway","New House Prices (Euro)","2016",262215
+"Galway","Second Hand House Prices (Euro)","2016",214645
+"Limerick","New House Prices (Euro)","2016",239024
+"Limerick","Second Hand House Prices (Euro)","2016",192721
+"Waterford","New House Prices (Euro)","2016",239409
+"Waterford","Second Hand House Prices (Euro)","2016",179609
+"Otherareas","New House Prices (Euro)","2016",272290
+"Otherareas","Second Hand House Prices (Euro)","2016",201272

@@ -1,0 +1,12 @@
+name: irishsuicides
+title: irishsuicides
+username:
+account: irishsuicides
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 895763
+bundleId: 2078515
+url: https://irishsuicides.shinyapps.io/irishsuicides/
+when: 1557673186.53917
+asMultiple: FALSE
+asStatic: FALSE
